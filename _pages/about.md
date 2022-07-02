@@ -15,13 +15,15 @@ I was furtunate to visit the Machine Intelligence Group of Institute for Interdi
 
 Publications
 ------
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang**$^*$, Chenjia Bai$^*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Preprint.
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai$^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Preprint.
 
 - [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang. International Conference on Learning Representations (ICLR), 2022.
 
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
 - [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). Lanqing Li, **Rui Yang**, Dijun Luo. International Conference on Learning Representations (ICLR), 2021.
+
+- [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). Rui Yang, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
 
 - [A survey on sparse reward algorithms in reinforcement learning-theory and experiment](http://html.rhhz.net/tis/html/202003031.htm). **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
@@ -34,11 +36,11 @@ Educations
 
 Experiences
 ------
-- #### Tencent Robotics X (Oct. 2020 – Jun. 2021)
+- ### Tencent Robotics X (Oct. 2020 – Jun. 2021)
    Researched on efficient goal-conditioned RL algorithms.
-- #### Tencent AI Lab (Jun. 2020 – Sep. 2020)
-   Worked on off-policy bias in multi-step HER and offline meta RL.
-- #### Meituan Financial Service Group
+- ### Tencent AI Lab (Jun. 2020 – Sep. 2020)
+   Researched on off-policy bias in multi-step HER and offline meta RL.
+- ### Meituan Financial Service Group (Jul. 2019 – Sep. 2019)
   Controlled daily remaining ads of Meituan app via a pacing PI control algorithm.
 
 Services
@@ -46,8 +48,8 @@ Services
 Conference Reviewer: ICML (2022), NeurIPS (2022).
 
 
-Awards
-------
+<!-- Awards
+------ -->
 
 
 
