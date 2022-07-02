@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a master's student at the Department of Automation, Tsinghua University, supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). Before that, I received my bachelor's degree from Department of Automation at Tsinghua University in 2019. My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL and model-based RL. I'm also interested in the application of RL algorithms to game AI and robotics.
 
-During my master's study, I was an student intern at Tencent AI Lab (mentored by [Lanqing Li](https://lanqingli1993.github.io)) and Tencent Robotics X Lab (mentored by Prof. [Meng Fang](https://mengf1.github.io) and Dr. [Lei Han](http://www.leihan.org)).
+During my master's study, I was an student intern at Tencent AI Lab (mentored by [Lanqing Li](https://lanqingli1993.github.io)) and Tencent Robotics X Lab (mentored by Prof. [Meng Fang](https://mengf1.github.io) and Dr. [Lei Han](http://www.leihan.org)). 
 
 
 A data-driven personal website
