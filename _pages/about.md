@@ -60,6 +60,6 @@ During my leisure time, I like sports such as running, table tennis, swimming. I
 |  Distance    | Time     |
 | ---------- | :-----------:  | 
 |  3 km    | 10min 28s     |
-|   5 km   | 18min 28s     | 
+|   5 km   | 18min 26s     | 
 |   21.0975 km (half marathon)  | 1h 30min      | 
 |  42.195 km  (marathon) | 3h 36min     | 
