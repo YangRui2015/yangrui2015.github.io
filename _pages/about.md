@@ -41,7 +41,7 @@ Experiences
 - ### Tencent AI Lab (Jun. 2020 – Sep. 2020)
    Researched on off-policy bias in multi-step HER and offline meta RL.
 - ### Meituan Financial Service Group (Jul. 2019 – Sep. 2019)
-  Controlled daily remaining ads of Meituan app via a pacing PI control algorithm.
+  Controlled the advertising speed of Meituan app via a pacing PI control algorithm.
 
 Services
 ------
