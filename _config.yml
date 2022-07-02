@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui Yang's Home Page"
 title_separator          : "-"
 name                     : &name "Rui Yang"
-description              : &description "Master student in Reinforcment Learning."
+description              : &description "Master's student in Reinforcment Learning."
 url                      : https://yangrui2015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YangRui2015/yangrui2015.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rui Yang"
   avatar           : "IMG_1575small_small.JPG"
-  bio              : "Master student in Reinforcment Learning."
+  bio              : "Master's student in Reinforcment Learning."
   location         : 
   employer         : "Tsinghua Univeristy"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
