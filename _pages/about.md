@@ -23,7 +23,7 @@ Publications
 
 - [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). Lanqing Li, **Rui Yang**, Dijun Luo. International Conference on Learning Representations (ICLR), 2021.
 
-- [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). Rui Yang, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
+- [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). **Rui Yang**, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
 
 - [A survey on sparse reward algorithms in reinforcement learning-theory and experiment](http://html.rhhz.net/tis/html/202003031.htm). **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
@@ -55,4 +55,4 @@ Conference Reviewer: ICML (2022), NeurIPS (2022).
 
 Others
 ------
-During my leisure time, I like sports such as running, table tennis, swimming. I used to be an amateur long-distance runner. I finished a half marathon (21.0975 km) in 1h36min and a marathon (42.195 km) in 3h36min.
+During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner. I finished a half marathon (21.0975 km) in 1h36min and a marathon (42.195 km) in 3h36min.
