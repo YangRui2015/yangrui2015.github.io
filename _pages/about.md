@@ -30,7 +30,7 @@ Publications
 
 Educations
 ------
-- 2022.09 - , In coming Ph.D. student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
+- 2022.09 - , Incoming Ph.D. student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 - 2019.09 - 2022.07, Master, Department of Automation, Tsinghua University.
 - 2015.09 - 2019.07, Bachelor, Department of Automation, Tsinghua University.
 
