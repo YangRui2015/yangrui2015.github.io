@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master's student at the Department of Automation, Tsinghua University, supervised by Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). I received my bachelor's degree from the Department of Automation at Tsinghua University in 2019. My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL and model-based RL. I'm also interested in the application of RL algorithms to game AI and robotics.
+I'm a first year Ph.D. student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's degree and bachelor's degree from the Department of Automation at Tsinghua University. My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL and model-based RL. I'm also interested in the application of RL algorithms to game AI and robotics.
 
 I was furtunate to visit the Machine Intelligence Group of Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University, working with Prof. [Chongjie Zhang](https://people.iiis.tsinghua.edu.cn/~zhang/). Before that, I was a student intern at Tencent Robotics X Lab (mentored by Prof. [Meng Fang](https://mengf1.github.io) and Dr. [Lei Han](http://www.leihan.org)) and Tencent AI Lab (mentored by [Lanqing Li](https://lanqingli1993.github.io)). 
 
@@ -30,7 +30,7 @@ Publications
 
 Educations
 ------
-- 2022.09 - , Incoming Ph.D. student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
+- 2022.09 - , Ph.D. student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 - 2019.09 - 2022.07, Master, Department of Automation, Tsinghua University.
 - 2015.09 - 2019.07, Bachelor, Department of Automation, Tsinghua University.
 
