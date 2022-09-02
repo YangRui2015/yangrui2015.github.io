@@ -55,4 +55,4 @@ Conference Reviewer: ICML (2022), NeurIPS (2022).
 
 Others
 ------
-During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner. I finished a half marathon (21.0975 km) in 1h36min and a marathon (42.195 km) in 3h36min.
+During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner. I finished a half marathon (21.0975 km) in 1h30min and a marathon (42.195 km) in 3h36min.
