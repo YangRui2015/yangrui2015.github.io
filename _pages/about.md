@@ -15,7 +15,9 @@ I was furtunate to visit the Machine Intelligence Group of Institute for Interdi
 
 Publications
 ------
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai$^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Preprint.
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai$^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
+
+- [Exploiting Reward Shifting in Value-Based Deep RL](). Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
 
 - [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang. International Conference on Learning Representations (ICLR), 2022.
 
