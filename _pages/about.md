@@ -21,9 +21,9 @@ Publications
 
 - [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang. International Conference on Learning Representations (ICLR), 2022.
 
-- [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
-
 - [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). Lanqing Li, **Rui Yang**, Dijun Luo. International Conference on Learning Representations (ICLR), 2021.
+
+- [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
 - [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). **Rui Yang**, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
 
