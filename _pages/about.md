@@ -15,7 +15,8 @@ I was furtunate to visit the Machine Intelligence Group of Institute for Interdi
 
 Publications
 ------
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai$^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf)
+### Conference Papers
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf)
 
 - [Exploiting Reward Shifting in Value-Based Deep RL](). Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
 
@@ -27,7 +28,11 @@ Publications
 
 - [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). **Rui Yang**, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
 
-- [A survey on sparse reward algorithms in reinforcement learning-theory and experiment](http://html.rhhz.net/tis/html/202003031.htm). **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
+
+### Journal Papers
+- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. 
+
+- [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
 
 Educations
@@ -49,6 +54,7 @@ Services
 ------
 Conference Reviewer: ICML (2022), NeurIPS (2022), ICRA (2023).
 
+Journal Reviewer: RA-L (2023)
 
 <!-- Awards
 ------ -->
