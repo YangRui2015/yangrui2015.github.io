@@ -30,7 +30,7 @@ Publications
 
 
 ### Journal Papers
-- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. 
+- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
 
 - [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
@@ -54,7 +54,7 @@ Services
 ------
 Conference Reviewer: ICML (2022), NeurIPS (2022), ICRA (2023).
 
-Journal Reviewer: RA-L (2023)
+Journal Reviewer: IEEE Robotics and Automation Letters (RA-L)
 
 <!-- Awards
 ------ -->
