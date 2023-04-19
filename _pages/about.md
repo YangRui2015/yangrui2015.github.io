@@ -30,7 +30,7 @@ Publications
 
 
 ### Journal Papers
-- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. In submission, 2023.
+- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
 
 - [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
