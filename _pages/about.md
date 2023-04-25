@@ -16,6 +16,8 @@ I was furtunate to visit the Machine Intelligence Group of Institute for Interdi
 Publications
 ------
 ### Conference Papers
+- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?] **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. (coming soon)
+
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf)
 
 - [Exploiting Reward Shifting in Value-Based Deep RL](). Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
