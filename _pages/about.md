@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year Ph.D. student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://people.iiis.tsinghua.edu.cn/~zhang/) (IIIS, Tsinghua University), Dr. [Lei Han](http://www.leihan.org) (Tencent), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL and model-based RL, and the application of RL algorithms to game AI and robotics. 
+I'm a first year Ph.D. student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to work closely with Prof. [Chongjie Zhang](https://people.iiis.tsinghua.edu.cn/~zhang/) (IIIS, Tsinghua University), Dr. [Lei Han](http://www.leihan.org) (Tencent), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to game AI and robotics. 
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
@@ -59,8 +59,6 @@ Conference Reviewer: ICML (2022), NeurIPS (2022,2023)
 
 <!-- Journal Reviewer: IEEE Robotics and Automation Letters (RA-L) -->
 
-<!-- Awards
------- -->
 
 
 
