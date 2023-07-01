@@ -16,7 +16,7 @@ Currently, I am actively researching ways to improve the robustness and generali
 Publications
 ------
 ### Conference Papers
-- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?]() **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. (coming soon)
+- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. 
 
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf)
 
@@ -32,7 +32,7 @@ Publications
 
 
 ### Journal Papers
-- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ]()  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
+- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ](https://www.jair.org/index.php/jair/article/view/14398)  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
 
 - [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
 
