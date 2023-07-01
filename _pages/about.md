@@ -54,10 +54,9 @@ Experiences
 
 Services
 ------
-Conference Reviewer: ICML (2022), NeurIPS (2022,2023)
-<!-- , ICRA (2023). -->
+Conference Reviewer: ICML (2022), NeurIPS (2022,2023), ICRA (2023). 
 
-<!-- Journal Reviewer: IEEE Robotics and Automation Letters (RA-L) -->
+Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), Machine Learning
 
 
 
