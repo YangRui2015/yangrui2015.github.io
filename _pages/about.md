@@ -45,8 +45,8 @@ Educations
 
 Experiences
 ------
-<!-- - ### Tencent Robotics X (Oct. 2020 – Jun. 2021)
-   Researched on efficient goal-conditioned RL algorithms. -->
+- ### Tencent Robotics X (Oct. 2020 – Jun. 2021)
+   Researched on efficient goal-conditioned RL algorithms.
 - ### Tencent AI Lab (Jun. 2020 – Sep. 2020)
    Researched on multi-step HER and offline meta RL.
 - ### Meituan Financial Service Group (Jul. 2019 – Sep. 2019)
