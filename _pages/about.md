@@ -56,7 +56,7 @@ Services
 ------
 Conference Reviewer: ICML (2022), NeurIPS (2022,2023), ICRA (2023). 
 
-Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), Machine Learning
+Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning
 
 
 
