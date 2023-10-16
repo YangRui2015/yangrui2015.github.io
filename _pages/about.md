@@ -16,6 +16,8 @@ Currently, I am actively researching ways to improve the robustness and generali
 Publications
 ------
 ### Conference Papers
+- [Corruption-Robust Offline Reinforcement Learning with General Function Approximation]() Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang. 37th Conference on Neural Information Processing Systems (NeurIPS) 2023.
+
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. 
 
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf)
