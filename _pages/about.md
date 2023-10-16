@@ -30,8 +30,6 @@ Publications
 
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
-- [Combining Hindsight with Goal-enhanced Prediction for Multi-goal Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9643318/). **Rui Yang**, Feng Luo, Xiu Li. IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) 2021.
-
 
 ### Journal Papers
 - [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ](https://www.jair.org/index.php/jair/article/view/14398)  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
