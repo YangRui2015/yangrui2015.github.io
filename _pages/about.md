@@ -28,6 +28,10 @@ Publications
 
 - [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). Lanqing Li, **Rui Yang**, Dijun Luo. International Conference on Learning Representations (ICLR), 2021.
 
+### Workshop Papers
+
+- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). Mianchu Wang$^\*$, **Rui Yang$^\*$**, Xi Chen, Meng Fang. NeurIPS 2023 GCRL Workshop (Spotlight). 
+
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
 
