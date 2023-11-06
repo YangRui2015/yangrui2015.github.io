@@ -30,7 +30,7 @@ Publications
 
 ### Workshop Papers
 
-- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Meng Fang. NeurIPS 2023 GCRL Workshop $\textnormal{\color{brown}(Spotlight)}$. 
+- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Meng Fang. NeurIPS 2023 GCRL Workshop ${\color{brown}(Spotlight)}$. 
 
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
