@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to game AI and robotics. 
+I'm a second year postgraduate student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to game AI and robotics. 
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
@@ -43,7 +43,7 @@ Publications
 
 Educations
 ------
-- 2022.09 - now, Ph.D. student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
+- 2022.09 - now, postgraduat student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
 - 2019.09 - 2022.07, Master, Department of Automation, Tsinghua University.
 - 2015.09 - 2019.07, Bachelor, Department of Automation, Tsinghua University.
 
@@ -58,7 +58,7 @@ Experiences
 
 Services
 ------
-Conference Reviewer: ICML (2022), ICLR (2024), NeurIPS (2022,2023), ICRA (2023). 
+Conference Reviewer: ICML (2022), ICLR (2024), NeurIPS (2022,2023), ICRA (2023), AAMAS(2024). 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning.
 
