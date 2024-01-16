@@ -16,13 +16,13 @@ Currently, I am actively researching ways to improve the robustness and generali
 Publications
 ------
 ### Conference Papers
-- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK) Rui Yang$^\*$, Han Zhong$^\*$, Jiawei Xu$^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. The Twelfth International Conference on Learning Representations (ICLR) 2024. ${\color{brown}(Spotlight)}$.
+- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK) Rui Yang$^\*$, Han Zhong$^\*$, Jiawei Xu$^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. The Twelfth International Conference on Learning Representations (ICLR) 2024. $\color{red}{\text{(Spotlight)}}$.
 
 - [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX) Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang. 37th Conference on Neural Information Processing Systems (NeurIPS) 2023.
 
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. 
 
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf) ${\color{brown}(Spotlight)}$
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf) $\color{red}{\text{(Spotlight)}}$.
 
 - [Exploiting Reward Shifting in Value-Based Deep RL](). Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
 
@@ -32,7 +32,7 @@ Publications
 
 ### Workshop Papers
 
-- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Meng Fang. NeurIPS 2023 GCRL Workshop ${\color{brown}(Spotlight)}$. 
+- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Meng Fang. NeurIPS 2023 GCRL Workshop $\color{red}{\text{(Spotlight)}}$. 
 
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  NeurIPS 2021 Workshop DeepRL.
 
