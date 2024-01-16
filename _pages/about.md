@@ -16,7 +16,7 @@ Currently, I am actively researching ways to improve the robustness and generali
 Publications
 ------
 ### Conference Papers
-- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK) Rui Yang$^\*$, Han Zhong$^\*$, Jiawei Xu$^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. The Twelfth International Conference on Learning Representations (ICLR) 2024. $\color{red}{\text{(Spotlight)}}$.
+- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK) **Rui Yang**$^\*$, Han Zhong$^\*$, Jiawei Xu$^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. The Twelfth International Conference on Learning Representations (ICLR) 2024. $\\color{red}{\\text{(Spotlight)}}$.
 
 - [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX) Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang. 37th Conference on Neural Information Processing Systems (NeurIPS) 2023.
 
