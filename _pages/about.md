@@ -16,19 +16,33 @@ Currently, I am actively researching ways to improve the robustness and generali
 Publications
 ------
 ### Conference Papers
-- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK) **Rui Yang**$^\*$, Han Zhong$^\*$, Jiawei Xu$^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. The Twelfth International Conference on Learning Representations (ICLR) 2024. $\\color{red}{\\text{(Spotlight)}}$
+- [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK). International Conference on Learning Representations (ICLR) 2024. $\\color{red}{\\text{(Spotlight)}}$
+  
+  **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang. 
 
-- [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX) Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang. 37th Conference on Neural Information Processing Systems (NeurIPS) 2023.
+- [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX). Neural Information Processing Systems (NeurIPS) 2023.
 
-- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q) **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. International Conference on Machine Learning (ICML) 2023. 
+  Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang. 
 
-- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](). **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.[PDF](http://yangrui2015.github.io/files/RORL_camera_ready.pdf) $\color{red}{\text{(Spotlight)}}$
+- [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q). International Conference on Machine Learning (ICML) 2023. 
 
-- [Exploiting Reward Shifting in Value-Based Deep RL](). Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou. Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022.
+  **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang. 
 
-- [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang. International Conference on Learning Representations (ICLR), 2022. [PDF](http://yangrui2015.github.io/files/WGCSL_camera_ready_v2.pdf)
+- [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE). Neural Information Processing Systems (NeurIPS) 2022. $\color{red}{\text{(Spotlight)}}$
 
-- [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). Lanqing Li, **Rui Yang**, Dijun Luo. International Conference on Learning Representations (ICLR), 2021.
+  **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han. 
+
+- [Exploiting Reward Shifting in Value-Based Deep RL](https://openreview.net/forum?id=iCxRsZcVVAH). Neural Information Processing Systems (NeurIPS) 2022.
+
+  Hao Sun, Lei Han, **Rui Yang**, Xiaoteng Ma, Jian Guo, Bolei Zhou.
+
+- [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). International Conference on Learning Representations (ICLR), 2022. 
+
+  **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang. 
+
+- [FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization](https://openreview.net/forum?id=8cpHIfgY4Dj). International Conference on Learning Representations (ICLR), 2021.
+
+  Lanqing Li, **Rui Yang**, Dijun Luo. 
 
 ### Workshop Papers
 
@@ -38,9 +52,13 @@ Publications
 
 
 ### Journal Papers
-- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ](https://www.jair.org/index.php/jair/article/view/14398)  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. Journal of Artificial Intelligence Research (JAIR), 2023.
+- [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ](https://www.jair.org/index.php/jair/article/view/14398) Journal of Artificial Intelligence Research (JAIR), 2023.
 
-- [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) **Rui Yang**, Jiangpeng Yan, Xiu Li. CAAI Transactions on Intelligent Systems (in Chinese), 2020
+  Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. 
+
+- [A survey on sparse reward algorithms in reinforcement learning-theory and experiment.](http://html.rhhz.net/tis/html/202003031.htm) CAAI Transactions on Intelligent Systems (in Chinese), 2020.
+
+  **Rui Yang**, Jiangpeng Yan, Xiu Li. 
 
 
 Educations
