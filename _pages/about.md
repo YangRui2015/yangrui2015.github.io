@@ -15,6 +15,13 @@ Currently, I am actively researching ways to improve the robustness and generali
 
 Publications
 ------
+### Preprint
+- [Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207).
+
+  **Rui Yang**, Xiaoman Pan, Feng Luo, Shuang Qiu, Han Zhong, Dong Yu, Jianshu Chen
+
+
+
 ### Conference Papers
 - [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK). International Conference on Learning Representations (ICLR) 2024. $\\color{red}{\\text{(Spotlight)}}$
   
