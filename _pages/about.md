@@ -89,7 +89,7 @@ Experiences
 
 Services
 ------
-Conference Reviewer: ICML (2022), ICLR (2024), NeurIPS (2022,2023), ICRA (2023), AAMAS(2024). 
+Conference Reviewer: ICML (2022,2024), ICLR (2024), NeurIPS (2022,2023 $\\color{red}{\\text{Top Reviewer}}$), ICRA (2023), AAMAS(2024). 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning.
 
@@ -97,4 +97,4 @@ Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions
 
 Others
 ------
-During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner. I finished a half marathon (21.0975 km) in 1h30min and a marathon (42.195 km) in 3h36min.
+During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner at Tsinghua University. I finished a half marathon (21.0975 km) in 1h30min and a marathon (42.195 km) in 3h36min.
