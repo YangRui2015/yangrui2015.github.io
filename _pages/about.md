@@ -80,9 +80,9 @@ Educations
 
 Experiences
 ------
-- ### Tencent Robotics X and Tencent AI Lab
+- ### Internship at Tencent Robotics X and Tencent AI Lab
 
-- ### Meituan Financial Service Group
+- ### Internship at Meituan Financial Service Group
 
 Services
 ------
