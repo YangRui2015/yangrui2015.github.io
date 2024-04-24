@@ -80,12 +80,9 @@ Educations
 
 Experiences
 ------
-- ### Tencent Robotics X (Oct. 2020 – Jun. 2021)
-   Researched on efficient goal-conditioned RL algorithms.
-- ### Tencent AI Lab (Jun. 2020 – Sep. 2020)
-   Researched on multi-step HER and offline meta RL.
-- ### Meituan Financial Service Group (Jul. 2019 – Sep. 2019)
-  Controlled the advertising speed of Meituan app via a pacing PI control algorithm.
+- ### Tencent Robotics X and Tencent AI Lab
+
+- ### Meituan Financial Service Group
 
 Services
 ------
