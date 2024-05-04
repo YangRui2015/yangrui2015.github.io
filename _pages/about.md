@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to Large Language Models (LLMs), game AI, and robotics. 
+I'm a postgraduate student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. I am furtunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to Large Language Models (LLMs), and game AI. 
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
@@ -78,7 +78,7 @@ Educations
 
 Experiences
 ------
--  Internship at Tencent Robotics X and Tencent AI Lab
+-  Internship at Tencent AI Lab
 
 -  Internship at Meituan Financial Service Group
 
