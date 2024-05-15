@@ -12,6 +12,11 @@ I'm a postgraduate student at CSE, the Hong Kong University of Science and Techn
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
+News
+------
+- 🎉 (2024.5) [Rewards-in-Context (RiC)](https://arxiv.org/abs/2402.10207) is accepted by ICML 2024! Thanks to my co-authors!
+- 🎉 (2024.5) [GOPlan](https://openreview.net/forum?id=zOKAmm8R9B) is accepted by Transactions on Machine Learning Research (TMLR)!
+- 🎉 (2024.1) [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by ICLR 2024!
 
 Publications
 ------
@@ -19,7 +24,7 @@ Publications
 ### Conference Papers
 - [Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207). International Conference on Machine Learning (ICML) 2024.
 
-  **Rui Yang**, Xiaoman Pan, Feng Luo, Shuang Qiu, Han Zhong, Dong Yu, Jianshu Chen
+  **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen
 
 - [Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK). International Conference on Learning Representations (ICLR) 2024. $\\color{red}{\\text{(Spotlight)}}$
   
@@ -51,7 +56,7 @@ Publications
 
 ### Workshop Papers
 
-- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](). NeurIPS 2023 GCRL Workshop. $\color{red}{\text{(Spotlight)}}$
+- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://openreview.net/forum?id=qU6tZmppN7). NeurIPS 2023 GCRL Workshop. $\color{red}{\text{(Spotlight)}}$
 
   Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Meng Fang. 
 
@@ -61,6 +66,10 @@ Publications
 
 
 ### Journal Papers
+- [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://openreview.net/forum?id=zOKAmm8R9B). Transactions on Machine Learning Research (TMLR) 2024.
+
+  Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Hao Sun, Meng Fang, Giovanni Montana.
+
 - [Efficient Multi-Goal Reinforcement Learning via Value Consistency Prioritization. ](https://www.jair.org/index.php/jair/article/view/14398) Journal of Artificial Intelligence Research (JAIR), 2023.
 
   Jiawei Xu $^\*$, Shuxing Li $^\*$, **Rui Yang**, Chun Yuan, Lei Han. 
