@@ -16,7 +16,7 @@ News
 ------
 - 🎉 (2024.5) [Rewards-in-Context (RiC)](https://arxiv.org/abs/2402.10207) is accepted by ICML 2024! Thanks to my co-authors!
 - 🎉 (2024.5) [GOPlan](https://openreview.net/forum?id=zOKAmm8R9B) is accepted by Transactions on Machine Learning Research (TMLR)!
-- 🎉 (2024.1) [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by ICLR 2024!
+- 🎉 (2024.1) [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by ICLR 2024 as a spotlight paper!
 
 Publications
 ------
