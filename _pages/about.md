@@ -40,7 +40,7 @@ Selected Publications
   
   **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
 
-  - TL;DR: Tackling data corruption in offline RL through robust value learning (Huber loss) and moderate pessimism (quantile Q estimators).
+  - TL;DR: SOTA robust offline RL against data corruption through robust value learning (Huber loss) and moderate pessimism (quantile Q estimators).
 
 - [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX). Neural Information Processing Systems (NeurIPS) 2023.
 
@@ -61,7 +61,7 @@ Selected Publications
 
   **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang.
 
-   - TL;DR: We study the unseen goal generalization ability of offline GCRL, and propose to enhance the OOD generalization through better value learning and uncertainty reweighting.
+   - TL;DR: We study the unseen goal generalization ability of offline GCRL, and propose to enhance the OOD generalization.
 
 - [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). International Conference on Learning Representations (ICLR), 2022. 
 
