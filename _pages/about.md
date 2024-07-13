@@ -73,7 +73,6 @@ Selected Publications
 
   Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Hao Sun, Meng Fang, Giovanni Montana.
 
-  - TL;DR: We propose a model-based offline GCRL method through planning with multiple models to enable better generalization ability.
 
 - [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). NeurIPS 2021 Workshop DeepRL.
 
