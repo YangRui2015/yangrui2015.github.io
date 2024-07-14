@@ -32,7 +32,7 @@ Selected Publications
 
   **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.
 
-   - TL;DR: Enabling efficient and scalable multi-objective alignment of foundation models through multi-reward conditional SFT and inference-time adaption.
+   - TL;DR: Efficient and scalable multi-objective alignment method for foundation models through multi-reward conditional SFT and inference-time adaption.
 
 ### Robust Offline RL
 
@@ -67,7 +67,7 @@ Selected Publications
 
   **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.
 
-  - TL;DR: We propose an efficient offline GCRL method with three effective weighting techniques.
+  - TL;DR: An efficient supervised-based offline GCRL method with three effective weighting techniques.
   
 - [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://openreview.net/forum?id=zOKAmm8R9B). Transactions on Machine Learning Research (TMLR) 2024.
 
