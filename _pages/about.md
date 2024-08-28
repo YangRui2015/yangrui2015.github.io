@@ -91,8 +91,9 @@ Conference Reviewer: ICML (22,24), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning.
 
+Teaching Assistant: COMP 4211 Machine Learning, HKUSt; COMP 1021 Introduction to Computer Science, HKUST
 
 
 Others
 ------
-During my leisure time, I like sports such as running, table tennis and swimming. I used to be an amateur long-distance runner at Tsinghua University. I finished a half marathon (21.0975 km) in 1h30min and a marathon (42.195 km) in 3h36min.
+In my leisure time, I enjoy sports like running, table tennis, and swimming. During my time at Tsinghua University, I was an amateur long-distance runner. In 2019, I completed a half marathon (21.0975 km) in 1 h 30 m and a full marathon (42.195 km) in 3 h 36 m.
