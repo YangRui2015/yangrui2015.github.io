@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student at CSE, the Hong Kong University of Science and Technology, supervised by Prof. [Tong Zhang](http://tongzhang-ml.org). I received my master's and bachelor's degrees from the Department of Automation at Tsinghua University. My research interests lie in deep reinforcement learning (RL), especially goal-conditioned RL, offline RL, model-based RL, and the application of RL algorithms to Large Language Models (LLMs), and game AI. I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
+I am a PhD student in Computer Science at UIUC, under the supervision of Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs). I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
@@ -40,13 +40,13 @@ Selected Publications
   
   **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
 
-  - TL;DR: SOTA robust offline RL against data corruption through robust value learning (Huber loss) and moderate pessimism (quantile Q estimators).
+  - TL;DR: SOTA robust offline RL against data corruption through robust value learning and moderate pessimism.
 
 - [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX). Neural Information Processing Systems (NeurIPS) 2023.
 
   Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.
 
-  - TL;DR: Provable robust offline RL method against reward and dynamics corruption in offline datasets through uncertainty reweighting.
+  - TL;DR: Provable robust offline RL method against reward and dynamics corruption in offline data through uncertainty reweighting.
 
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE). Neural Information Processing Systems (NeurIPS) 2022. $\color{red}{\text{(Spotlight)}}$
   
@@ -79,12 +79,6 @@ Selected Publications
   **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  
 
 
-Educations
-------
-- 2022.09 - now, postgraduat student, Department of Computer Science and Engineering, the Hong Kong University of Science and Technology.
-- 2019.09 - 2022.07, Master, Department of Automation, Tsinghua University.
-- 2015.09 - 2019.07, Bachelor, Department of Automation, Tsinghua University.
-
 Experiences
 ------
 -  Internship at Tencent AI Lab
@@ -93,7 +87,7 @@ Experiences
 
 Services
 ------
-Conference Reviewer: ICML (2022,2024), ICLR (2024), NeurIPS (2022,2023 $\\color{red}{\\text{Top Reviewer}}$), ICRA (2023), AAMAS(2024). 
+Conference Reviewer: ICML (22,24), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ICRA (23), AAMAS(24). 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning.
 
