@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs). I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
+I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs). I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
 
 Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
@@ -26,13 +26,13 @@ Selected Publications
 
   **Rui Yang**, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang.
 
-  - TL;DR: Enhancing the generalization ability of reward models for LLMs via text-generation regularizations.
+  - <small>**TL;DR:** Enhancing the generalization ability of reward models for LLMs via text-generation regularizations.</small>
 
 - [Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207). International Conference on Machine Learning (ICML) 2024.
 
   **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.
 
-   - TL;DR: Efficient and scalable multi-objective alignment method for foundation models through multi-reward conditional SFT and inference-time adaption.
+   - <small>**TL;DR:** Efficient and scalable multi-objective alignment for foundation models through multi-reward conditional SFT and inference-time adaption.</small>
 
 ### Robust Offline RL
 
@@ -40,19 +40,19 @@ Selected Publications
   
   **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
 
-  - TL;DR: SOTA robust offline RL against data corruption through robust value learning and moderate pessimism.
+  - <small>**TL;DR:** SOTA robust offline RL against data corruption through robust value learning and moderate pessimism.</small>
 
 - [Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX). Neural Information Processing Systems (NeurIPS) 2023.
 
   Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.
 
-  - TL;DR: Provable robust offline RL method against reward and dynamics corruption in offline data through uncertainty reweighting.
+  - <small>**TL;DR:** Provable robust offline RL method against reward and dynamics corruption in offline data through uncertainty reweighting.</small>
 
 - [RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE). Neural Information Processing Systems (NeurIPS) 2022. $\color{red}{\text{(Spotlight)}}$
   
   **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han.
 
-  - TL;DR: Robust offline RL method against testing-time observation perturbation through pessimism and local smoothing.
+  - <small>**TL;DR:** Robust offline RL method against testing-time observation perturbation through pessimism and local smoothing.</small>
 
   
 ### Goal-conditioend RL
@@ -61,22 +61,20 @@ Selected Publications
 
   **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang.
 
-   - TL;DR: We study the unseen goal generalization ability of offline GCRL, and propose to enhance the OOD generalization.
+   - <small>**TL;DR:** We study the unseen goal generalization ability of offline GCRL, and propose to enhance the OOD generalization.</small>
 
 - [Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW). International Conference on Learning Representations (ICLR), 2022. 
 
   **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.
 
-  - TL;DR: An efficient supervised-based offline GCRL method with three effective weighting techniques.
+  - <small>**TL;DR:** An efficient supervised-based offline GCRL method with three effective weighting techniques.</small>
   
 - [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://openreview.net/forum?id=zOKAmm8R9B). Transactions on Machine Learning Research (TMLR) 2024.
 
   Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Hao Sun, Meng Fang, Giovanni Montana.
+  
+    - <small>**TL;DR:** Pretraining prior policy via advantage-weighted CGAN and leveraging reanalysis with model-based planning for policy improvement.</small>
 
-
-- [MHER: Model-based Hindsight Experience Replay](https://openreview.net/forum?id=3zsx-jhn2LM). NeurIPS 2021 Workshop DeepRL.
-
-  **Rui Yang**, Meng Fang, Lei Han, Yali Du, Feng Luo, Xiu Li.  
 
 
 Experiences
