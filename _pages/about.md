@@ -88,9 +88,9 @@ Services
 ------
 Conference Reviewer: ICML (22,24), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ICRA (23), AAMAS(24). 
 
-Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning.
+Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
 
-Teaching Assistant: COMP 4211 Machine Learning, HKUSt; COMP 1021 Introduction to Computer Science, HKUST
+Teaching Assistant: COMP 4211 Machine Learning, HKUST; COMP 1021 Introduction to Computer Science, HKUST
 
 
 Others
