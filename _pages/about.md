@@ -15,7 +15,7 @@ Currently, I am actively researching ways to improve the robustness and generali
 News
 ------
 - 🌟 (2024.10) A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).   
-- 🎉 (2024.9) [GRM](https://arxiv.org/abs/2406.10216) is accepted by NeurIPS 2024! Check out our GRM series at [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
+- 🎉 (2024.9) [GRM](https://arxiv.org/abs/2406.10216) is accepted by NeurIPS 2024! Check out our GRM series [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
 - 🎉 (2024.5) [Rewards-in-Context (RiC)](https://arxiv.org/abs/2402.10207) is accepted by ICML 2024! Thanks to my co-authors!
 - 🎉 (2024.5) [GOPlan](https://openreview.net/forum?id=zOKAmm8R9B) is accepted by Transactions on Machine Learning Research (TMLR)!
 - 🎉 (2024.1) [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by ICLR 2024 as a spotlight paper!
