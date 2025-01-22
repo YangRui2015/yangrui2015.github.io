@@ -10,7 +10,7 @@ redirect_from:
 
 I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs). I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
 
-Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
+Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs/VLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
 News
 ------
