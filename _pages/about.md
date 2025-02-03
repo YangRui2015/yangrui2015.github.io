@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs). I am furtunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
+I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My research interests lie in deep reinforcement learning (RL) and the application of RL algorithms to Large Language Models (LLMs) and Embodied Agents. I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
 
-Currently, I am actively researching ways to improve the robustness and generalization abilities of deep reinforcement learning, while also trying to enhance the trustworthiness of LLMs/VLMs. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
+Currently, my research focuses on embodied agents, trustworthy LLMs/VLMs, and improving the robustness and generalization abilities of deep reinforcement learning. Feel free to contact me by email if you are interested in discussing or collaborating with me. 
 
 News
 ------
@@ -64,7 +64,7 @@ Selected Publications
 
 
   
-### Goal-conditioend RL
+### Goal-conditioned RL
 
 - [What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q). International Conference on Machine Learning (**ICML**) 2023. 
 
@@ -85,13 +85,13 @@ Selected Publications
 
 Experiences
 ------
--  Internship at Tencent AI Lab
+- Research Internships at Tencent AI Lab and Robotics X Lab
 
--  Internship at Meituan Financial Service Group
+-  ML Internship at Meituan Financial Service Group
 
 Services
 ------
-Conference Reviewer: ICML (22,24), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ICRA (23), AAMAS(24). 
+Conference Reviewer: ICML (22,24, 25), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ICRA (23), AAMAS(24). 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
 
