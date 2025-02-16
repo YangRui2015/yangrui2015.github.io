@@ -16,7 +16,7 @@ I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://
 
 ## News
 
-- **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for embodied agents. Check out our [project page](https://embodiedbench.github.io/).
+- **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
 - **🎉 (2025.1)** [Robust Decision Transformer](https://arxiv.org/abs/2407.04285) and [DynaMath](https://arxiv.org/abs/2411.00836) are accepted by **ICLR 2025**! New versions will be updated soon.
 - **🌟 (2024.10)** A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).
 - **🎉 (2024.9)** [GRM](https://arxiv.org/abs/2406.10216) is accepted by **NeurIPS 2024**! Check out our GRM series [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
