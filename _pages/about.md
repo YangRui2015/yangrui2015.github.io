@@ -10,7 +10,7 @@ redirect_from:
 
 I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. Currently, my research focuses on: **Embodied Agents**, **Trustworthy LLMs/VLMs**, and **Improving the robustness and generalization abilities of deep RL**.
 
-I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
+Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengf1.github.io) (University of Liverpool). 
 
 ---
 
@@ -43,11 +43,12 @@ I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://
   Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.
 
 ### Robust Offline RL
-- **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**. **ICLR 2024**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RIQL)  
-  **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
 
 - **[Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling](https://openreview.net/forum?id=phAlw3JPms)**. **ICLR 2025**.  
   Jiawei Xu $^\*$, **Rui Yang** $^\*$, Shuang Qiu, Feng Luo, Meng Fang, Baoxiang Wang, Lei Han.
+
+- **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**. **ICLR 2024**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RIQL)  
+  **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
 
 - **[Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX)**. **NeurIPS 2023**. [[code]](https://github.com/YangRui2015/UWMSG)  
   Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.
