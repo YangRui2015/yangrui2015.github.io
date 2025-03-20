@@ -74,7 +74,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 - Research Internships at Tencent AI Lab and Robotics X Lab
 
--  ML Internship at Meituan Financial Service Group
+- ML Internship at Meituan Financial Service Group
 
 ## Services
 
