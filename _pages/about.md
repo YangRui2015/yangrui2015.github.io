@@ -16,7 +16,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 ## News
 
-- **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
+- **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for multimodal embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
 - **🎉 (2025.1)** [Robust Decision Transformer](https://arxiv.org/abs/2407.04285) and [DynaMath](https://arxiv.org/abs/2411.00836) are accepted by **ICLR 2025**! New versions will be updated soon.
 - **🌟 (2024.10)** A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).
 - **🎉 (2024.9)** [GRM](https://arxiv.org/abs/2406.10216) is accepted by **NeurIPS 2024**! Check out our GRM series [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
@@ -27,20 +27,20 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 ---
 ## Selected Publications
 
-### Embodied Agents
+### Multimodal Embodied Agents 
 - **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. Preprint, 2025. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
   **Rui Yang**$^\*$, Hanyang Chen $^\*$, Junyu Zhang $^\*$, Mark Zhao $^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang
 
-### RL for LLMs
+### Multimodal Math Reasoning 
+- **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**. **ICLR 2025**. [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
+  Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.
+
+### ML for LLMs
 - **[Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)**. **NeurIPS 2024**. [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)  
   **Rui Yang**, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang.
 
 - **[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207)**. **ICML 2024**. [[code]](https://github.com/YangRui2015/RiC)  
   **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.
-
-### Evaluation of VLMs
-- **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**. **ICLR 2025**. [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
-  Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.
 
 ### Robust Offline RL
 
@@ -78,7 +78,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 ## Services
 
-Conference Reviewer: ICML (22,24, 25), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ICRA (23), AAMAS(24). 
+Conference Reviewer: ICML (22,24, 25), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ACL (25), ICRA (23), AAMAS(24). 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
 
