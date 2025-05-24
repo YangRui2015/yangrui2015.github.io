@@ -73,13 +73,15 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 ## Experiences
 
+- Research Internship at Microsoft Research, Redmond, 2025.
+
 - Research Internships at Tencent AI Lab and Robotics X Lab
 
 - ML Internship at Meituan Financial Service Group
 
 ## Services
 
-Conference Reviewer: ICML (22,24, 25), ICLR (24, 25), NeurIPS (22,23 $\\color{red}{\\text{Top Reviewer}}$, 24), ACL (25), ICRA (23), AAMAS(24). 
+Conference Reviewer: ICML, ICLR, NeurIPS ($\\color{red}{\\text{Top Reviewer}}$ in NeurIPS 2023), ACL/ARR, ICRA, AAMAS. 
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
 
