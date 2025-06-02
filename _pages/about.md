@@ -15,7 +15,8 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 ---
 
 ## News
-
+- **💻(2025.5)** Starting my internship at Microsoft Research, Redmond.
+- **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025**! Thanks to my co-authors!
 - **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for multimodal embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
 - **🎉 (2025.1)** [Robust Decision Transformer](https://arxiv.org/abs/2407.04285) and [DynaMath](https://arxiv.org/abs/2411.00836) are accepted by **ICLR 2025**! New versions will be updated soon.
@@ -73,11 +74,11 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 ## Experiences
 
-- Research Internship at Microsoft Research, Redmond, 2025.
+- Research Intern at Microsoft Research, 2025.
 
-- Research Internships at Tencent AI Lab and Robotics X Lab
+- Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
 
-- ML Internship at Meituan Financial Service Group
+- ML Intern at Meituan Financial Service Group, 2019.
 
 ## Services
 
