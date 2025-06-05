@@ -24,7 +24,6 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 - **🌟 (2024.10)** A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).
 - **🎉 (2024.9)** [GRM](https://arxiv.org/abs/2406.10216) is accepted by **NeurIPS 2024**! Check out our GRM series [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
 - **🎉 (2024.5)** [Rewards-in-Context (RiC)](https://arxiv.org/abs/2402.10207) is accepted by **ICML 2024**! Thanks to my co-authors!
-- **🎉 (2024.5)** [GOPlan](https://openreview.net/forum?id=zOKAmm8R9B) is accepted by **Transactions on Machine Learning Research (TMLR)**!
 - **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a spotlight paper!
 
 ---
@@ -32,7 +31,6 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 ### Multimodal GUI Agent
 - **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. Preprint 2025. [[code]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor/)
-  
   **Qianhui Wu**\$^\*\$, **Kanzhi Cheng**\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
 
 ### Multimodal Embodied Agent
