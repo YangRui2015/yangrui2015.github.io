@@ -15,7 +15,8 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 ---
 
 ## News
-- **💻(2025.5)** Starting my internship at Microsoft Research, Redmond.
+- **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
+- **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025**! Thanks to my co-authors!
 - **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for multimodal embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
@@ -27,9 +28,14 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 - **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a spotlight paper!
 
 ---
-## Selected Publications
+## Selected Publications 
 
-### Multimodal Embodied Agents 
+### Multimodal GUI Agent
+- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. Preprint 2025. [[code]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor/)
+  
+  **Qianhui Wu**\$^\*\$, **Kanzhi Cheng**\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
+
+### Multimodal Embodied Agent
 - **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025**. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
   **Rui Yang**$^\*$, Hanyang Chen $^\*$, Junyu Zhang $^\*$, Mark Zhao $^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang
 
