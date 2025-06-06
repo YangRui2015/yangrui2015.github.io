@@ -18,7 +18,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
 - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
-- **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025**! Thanks to my co-authors!
+- **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025** as an **oral** paper! Thanks to my co-authors!
 - **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for multimodal embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
 - **🎉 (2025.1)** [Robust Decision Transformer](https://arxiv.org/abs/2407.04285) and [DynaMath](https://arxiv.org/abs/2411.00836) are accepted by **ICLR 2025**! New versions will be updated soon.
 - **🌟 (2024.10)** A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).
@@ -35,7 +35,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 
 ### Multimodal Embodied Agent
-- **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025**. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
+- **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025** <span style="color:yellow;">**(Oral)**</span>. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
   **Rui Yang**$^\*$, Hanyang Chen $^\*$, Junyu Zhang $^\*$, Mark Zhao $^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang
 
 ### Multimodal Math Reasoning 
