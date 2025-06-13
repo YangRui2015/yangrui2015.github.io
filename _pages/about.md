@@ -30,7 +30,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 ## Selected Publications 
 
 ### Multimodal GUI Agent
-- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. *Preprint 2025*. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)
+- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. *Preprint 2025*. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)    
   Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
 
 
@@ -69,9 +69,6 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 - **[Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)**. **ICLR 2022**. [[code]](https://github.com/YangRui2015/AWGCSL)  
   **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.
-
-- **[GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://openreview.net/forum?id=zOKAmm8R9B)**. **TMLR 2024**.  
-  Mianchu Wang $^\*$, **Rui Yang $^\*$**, Xi Chen, Hao Sun, Meng Fang, Giovanni Montana.
 
 
 ---
