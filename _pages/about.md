@@ -15,6 +15,7 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 ---
 
 ## News
+- **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference as an <span style="color:DodgerBlue;">**oral**</span> paper!
 - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
 - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
