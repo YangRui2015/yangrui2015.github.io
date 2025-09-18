@@ -10,12 +10,13 @@ redirect_from:
 
 I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. Currently, my research focuses on: **Agents**, **Trustworthy LLMs/VLMs**, and **Deep reinforcement learning**.
 
-Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
+Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
 
 ---
 
 ## News
-- **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference as an <span style="color:DodgerBlue;">**oral**</span> paper!
+- **🎉 (2025.9)** [GUI-Actor](https://arxiv.org/abs/2506.03143) and [ADG](https://arxiv.org/abs/2505.23871) are accepted to **NeurIPS 2025**!
+- **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference with <span style="color:DodgerBlue;">**award nomination**</span>!
 - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
 - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
@@ -47,6 +48,14 @@ Prior to my PhD, I am fortunate to have been working closely with Prof. [Chongji
 
 - **[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207)**. **ICML 2024**. [[code]](https://github.com/YangRui2015/RiC)  
   **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.
+
+- **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**. **ACL 2025 (Findings)**.  
+  Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.  
+
+- **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**. **EMNLP 2025 (Main)**.  
+  Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.  
+
+  
 
 ### Robust Offline RL
 
