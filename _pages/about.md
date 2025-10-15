@@ -15,6 +15,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ---
 
 ## News
+- **🌟 (2025.10)** We released [Embodied Reasoning Agent (ERA)](https://arxiv.org/abs/2510.12693), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://embodied-reasoning-agent.github.io/).
 - **🎉 (2025.9)** [GUI-Actor](https://arxiv.org/abs/2506.03143) and [ADG](https://arxiv.org/abs/2505.23871) are accepted to **NeurIPS 2025**! [MergeBench](https://arxiv.org/abs/2505.10833) is accepted to the **Datasets & Benchmarks Track**! Congrats to all co-authors!
 - **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference with <span style="color:DodgerBlue;">**award nomination**</span>!
 - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
