@@ -10,7 +10,7 @@ redirect_from:
 
 I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. Currently, my research focuses on: **Agents**, **Trustworthy LLMs/VLMs**, and **Deep reinforcement learning**.
 
-Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Tencent AI Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
+Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Noitom Robotics, formerly Tencent AI Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
 
 ---
 
@@ -33,11 +33,16 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ## Selected Publications 
 
 ### Multimodal GUI Agent and Embodied Agent
-- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. *Preprint 2025*. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)    
-  Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
+
+- **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**. *Preprint 2025* [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)    
+  Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.
+
 
 - **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025** <span style="color:red;">**(Oral)**</span>. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
-  **Rui Yang**$^\*$, Hanyang Chen $^\*$, Junyu Zhang $^\*$, Mark Zhao $^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang
+  **Rui Yang**$^\*$, Hanyang Chen\$^\*$, Junyu Zhang\$^\*$, Mark Zhao$^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang.
+
+- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. **NeurIPS 2025**. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)    
+  Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
 
 ### Multimodal Math Reasoning 
 - **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**. **ICLR 2025**. [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
