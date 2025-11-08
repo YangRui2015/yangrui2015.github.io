@@ -60,7 +60,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**. **ACL 2025 (Findings)**.  
   Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.  
 
-- **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**. **EMNLP 2025 (Main)** <span style="color:DodgerBlue;">**Outstanding Paper Award**</span>.  
+- **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**. **EMNLP 2025 (Main)** <span style="color:red;">**Outstanding Paper Award**</span>.  
   Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.  
 
   
