@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. Currently, my research focuses on: **Agents**, **Trustworthy LLMs/VLMs**, and **Deep reinforcement learning**.
+I am a PhD student in Computer Science at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My current research interests lie in **Foundation Models for Agents**, **Trustworthy LLMs/VLMs**, and **Deep Reinforcement Learning**. My long-term goal is to develop **agent foundation models with strong perception, reasoning, and planning capabilities**, enabling scalable and reliable autonomous systems.
+
 
 Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Noitom Robotics, formerly Tencent AI Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
+
+
 
 ---
 
@@ -32,7 +35,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a <span style="color:DodgerBlue;">**spotlight**</span> paper!
 
 ---
-## Selected Publications 
+## Selected Projects (Led or Co-Led)
 
 ### Multimodal GUI Agent and Embodied Agent
 
@@ -92,11 +95,14 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ## Experiences
 
-- Research Intern at Microsoft Research, 2025.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="18"> Research Intern at Microsoft Research, 2025.
 
-- Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
+- <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/03_Tencent_English-logo.png" height="22" style="vertical-align: middle;"> Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
 
-- ML Intern at Meituan Financial Service Group, 2019.
+- <img src="https://play-lh.googleusercontent.com/C4OV39W_PKA0goub32o1ZwjSsKekUDPm-BQiAXDKn-WPk03cDrXRRsuN5Q02L50bnOyl=w480-h960-rw" height="22" style="vertical-align: middle;"> Machine Learning Intern at Meituan, 2019.
+
+
+
 
 ## Services
 
