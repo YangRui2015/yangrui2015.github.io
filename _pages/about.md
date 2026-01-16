@@ -15,8 +15,6 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 
----
-
 ## News
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
 - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)!
@@ -94,12 +92,11 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 ## Experiences
+- Research Intern at Microsoft Research, 2025.
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="18"> Research Intern at Microsoft Research, 2025.
+- Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
 
-- <img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/03_Tencent_English-logo.png" height="22" style="vertical-align: middle;"> Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
-
-- <img src="https://play-lh.googleusercontent.com/C4OV39W_PKA0goub32o1ZwjSsKekUDPm-BQiAXDKn-WPk03cDrXRRsuN5Q02L50bnOyl=w480-h960-rw" height="22" style="vertical-align: middle;"> Machine Learning Intern at Meituan, 2019.
+- Machine Learning Intern at Meituan, 2019.
 
 
 
