@@ -16,6 +16,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 ## News
+- **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
 - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)!
 - **🌟 (2025.10)** We released [Embodied Reasoning Agent (ERA)](https://arxiv.org/abs/2510.12693), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://embodied-reasoning-agent.github.io/).
