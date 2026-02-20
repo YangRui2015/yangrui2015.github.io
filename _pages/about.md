@@ -15,7 +15,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 
-## News
+## News {#news}
 - **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
 - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)!
@@ -34,7 +34,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a <span style="color:DodgerBlue;">**spotlight**</span> paper!
 
 ---
-## Selected Projects (Led or Co-Led)
+## Selected Projects (Led or Co-Led) {#publications}
 
 ### Multimodal GUI Agent and Embodied Agent
 
@@ -92,7 +92,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ---
 
 
-## Experiences
+## Experiences {#experiences}
 - Research Intern at Microsoft Research, 2025.
 
 - Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
@@ -102,9 +102,9 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 
-## Services
+## Services {#services}
 
-Conference Reviewer: ICML, ICLR, NeurIPS ($\\color{red}{\\text{Top Reviewer}}$ in NeurIPS 2023), ACL/ARR, ICRA, AAMAS. 
+Conference Reviewer: ICML, ICLR, NeurIPS (<span style="color:red;">Top Reviewer</span> in NeurIPS 2023), ACL/ARR, ICRA, AAMAS.
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Neural Networks and
 Learning Systems (TNNLS), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
@@ -112,6 +112,6 @@ Learning Systems (TNNLS), IEEE Transactions on Artificial Intelligence (TAI), Ma
 Teaching Assistant: COMP 4211 Machine Learning, HKUST; COMP 1021 Introduction to Computer Science, HKUST
 
 
-## Hobbies
+## Hobbies {#others}
 
 In my leisure time, I enjoy sports like running, table tennis, and swimming. During my time at Tsinghua University, I was an amateur long-distance runner. In 2019, I completed a half marathon (21.0975 km) in 1 h 30 min and a full marathon (42.195 km) in 3 h 36 min. However, since starting my PhD I haven’t had time for regular running training, so I’ve let it slide. Hopefully I’ll get a chance to update my record once I graduate🙂.

@@ -1,0 +1,95 @@
+/* ==========================================================================
+   Academic Homepage - Custom Aesthetic Enhancements
+   ========================================================================== */
+
+/* --- Section spacing & hierarchy --- */
+.page__content h2 {
+  margin-top: 2.5em;
+  padding-bottom: 0.6em;
+  border-bottom: 2px solid #e8e8e8;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.page__content h2:first-of-type {
+  margin-top: 1.5em;
+}
+
+.page__content h3 {
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  color: #4a4a4a;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+/* --- News items: clearer visual separation --- */
+.page__content ul li {
+  margin-bottom: 0.9em;
+  line-height: 1.65;
+  padding-left: 0.3em;
+}
+
+.page__content ul li::marker {
+  color: #52adc8;
+}
+
+/* --- Publication entries: subtle separation --- */
+.page__content #publications ~ h3 + ul li {
+  padding: 0.5em 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.page__content #publications ~ h3 + ul li:last-child {
+  border-bottom: none;
+}
+
+/* --- Links: cleaner, more academic look --- */
+.page__content a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(82, 173, 200, 0.4);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.page__content a:hover {
+  border-bottom-color: #52adc8;
+  color: #2d8ba8;
+}
+
+/* --- Author avatar: rounded for modern look --- */
+.author__avatar img {
+  border-radius: 8px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* --- Masthead: subtle refinement --- */
+.masthead {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.masthead__menu-item--lg a {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.masthead__menu-item a:hover {
+  color: #52adc8;
+}
+
+/* --- Smooth scroll for anchor links --- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* --- Experiences list: subtle bullet styling --- */
+.page__content h2#experiences + ul li {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page__content h2#experiences + ul li::before {
+  content: "▸ ";
+  color: #52adc8;
+  font-weight: bold;
+  margin-right: 0.4em;
+}
