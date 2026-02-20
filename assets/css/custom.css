@@ -81,15 +81,3 @@ html {
   scroll-behavior: smooth;
 }
 
-/* --- Experiences list: subtle bullet styling --- */
-.page__content h2#experiences + ul li {
-  list-style: none;
-  padding-left: 0;
-}
-
-.page__content h2#experiences + ul li::before {
-  content: "▸ ";
-  color: #52adc8;
-  font-weight: bold;
-  margin-right: 0.4em;
-}
