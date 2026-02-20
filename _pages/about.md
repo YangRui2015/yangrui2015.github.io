@@ -93,11 +93,12 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 ## Experiences {#experiences}
-- Research Intern at Microsoft Research, 2025.
 
-- Research Intern at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
+- <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at [Microsoft Research](https://www.microsoft.com/en-us/research/), 2025.
 
-- Machine Learning Intern at Meituan, 2019.
+- <img src="/images/tencent.svg" alt="Tencent" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at [Tencent AI Lab](https://ai.tencent.com/) and Robotics X Lab, 2020-2022 (Multiple internship terms).
+
+- <img src="/images/meituan.png" alt="Meituan" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Machine Learning Intern** at [Meituan](https://www.meituan.com/), 2019.
 
 
 
