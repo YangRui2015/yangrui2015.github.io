@@ -58,6 +58,8 @@
 
 .page__content #publications ~ h3 + ul li p:last-child {
   margin-bottom: 0;
+  font-size: 0.88em;
+  color: #555;
 }
 
 /* --- Links: cleaner, more academic look --- */
