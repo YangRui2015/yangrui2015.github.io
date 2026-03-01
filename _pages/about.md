@@ -16,6 +16,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 ## News {#news}
+- **🌟 (2026.2)** We released [GUI-Libra](https://gui-libra.github.io/), a data-efficient post-training receipe for GUI agents that uses 81K open-source data to achieve strong performance on online environments. Check out our [paper](https://arxiv.org/abs/2602.22190) and [code](https://github.com/GUI-Libra/GUI-Libra) for more details! 
 - **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
 - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)!
@@ -37,6 +38,10 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ## Selected Projects (Led or Co-Led) {#publications}
 
 ### Multimodal GUI Agent and Embodied Agent
+
+- **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)**. *Preprint 2026*. [[code]](https://github.com/GUI-Libra/GUI-Libra) [[website]](https://gui-libra.github.io/)  
+  **Rui Yang**, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baolin Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
+
 
 - **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**. *Preprint 2025* [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)    
   Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.
@@ -94,11 +99,11 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ## Experiences {#experiences}
 
-- <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at [Microsoft Research](https://www.microsoft.com/en-us/research/), 2025.
+- <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Microsoft Research, Redmond, 2025. Working on GUI agents and embodied AI.
 
-- <img src="/images/tencent.svg" alt="Tencent" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at [Tencent AI Lab](https://ai.tencent.com/) and Robotics X Lab, 2020-2022 (Multiple internship terms).
+- <img src="/images/tencent.svg" alt="Tencent" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
 
-- <img src="/images/meituan.png" alt="Meituan" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Machine Learning Intern** at [Meituan](https://www.meituan.com/), 2019.
+- <img src="/images/meituan.png" alt="Meituan" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Machine Learning Intern** at Meituan, 2019.
 
 
 
