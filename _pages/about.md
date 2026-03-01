@@ -26,17 +26,17 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
 - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025** as an <span style="color:DodgerBlue;">**oral**</span> paper! Thanks to my co-authors!
-<details>
-<summary><strong>Show more news</strong></summary>
+<!-- <details> -->
+<!-- <summary><strong>Show more news</strong></summary>
 - **🎉 (2025.5)** [Decomposed Reward Models (DRMs)](https://arxiv.org/pdf/2502.13131) is accepted to **ACL 2025**.
 - **🌟 (2025.02)** We released [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench), a new comprehensive and multifaceted benchmark for multimodal embodied agents. Check out our [paper](https://arxiv.org/abs/2502.09560) and [project page](https://embodiedbench.github.io/).
 - **🎉 (2025.1)** [Robust Decision Transformer](https://arxiv.org/abs/2407.04285) and [DynaMath](https://arxiv.org/abs/2411.00836) are accepted by **ICLR 2025**! New versions will be updated soon.
 - **🌟 (2024.10)** A dynamic visual math benchmark is out! Check the [project page](https://dynamath.github.io) and the [DynaMath paper](https://huan-zhang.com/DynaMath.pdf).
 - **🎉 (2024.9)** [GRM](https://arxiv.org/abs/2406.10216) is accepted by **NeurIPS 2024**! Check out our GRM series [here](https://github.com/YangRui2015/Generalizable-Reward-Model).
 - **🎉 (2024.5)** [Rewards-in-Context (RiC)](https://arxiv.org/abs/2402.10207) is accepted by **ICML 2024**! Thanks to my co-authors!
-- **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a <span style="color:DodgerBlue;">**spotlight**</span> paper!
+- **🎉 (2024.1)** [Robust IQL](https://openreview.net/forum?id=5hAMmCU0bK) is accepted by **ICLR 2024** as a <span style="color:DodgerBlue;">**spotlight**</span> paper! -->
 
-</details>
+<!-- </details> -->
 
 ---
 ## Selected Projects (Led or Co-Led) {#publications}
@@ -46,10 +46,8 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)**. *Preprint 2026*. [[code]](https://github.com/GUI-Libra/GUI-Libra) [[website]](https://gui-libra.github.io/)  
   **Rui Yang**, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baolin Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
 
-
 - **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**. *Preprint 2025* [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)    
   Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.
-
 
 - **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025** <span style="color:red;">**(Oral)**</span>. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
   **Rui Yang**$^\*$, Hanyang Chen\$^\*$, Junyu Zhang\$^\*$, Mark Zhao$^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang.
