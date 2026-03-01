@@ -17,7 +17,6 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ## News {#news}
 
-<div class="news-scroll">
 
 - **🌟 (2026.2)** We released [GUI-Libra](https://gui-libra.github.io/), a data-efficient post-training receipe for GUI agents that uses 81K open-source data to achieve strong performance on online environments. Check out our [paper](https://arxiv.org/abs/2602.22190) and [code](https://github.com/GUI-Libra/GUI-Libra) for more details! 
 - **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
@@ -30,7 +29,6 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025** as an <span style="color:DodgerBlue;">**oral**</span> paper! Thanks to my co-authors!
 
-</div>
 
 ---
 ## Selected Projects (Led or Co-Led) {#publications}

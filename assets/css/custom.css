@@ -34,15 +34,29 @@
   color: #52adc8;
 }
 
-/* --- Publication entries: subtle separation, tighter spacing within category --- */
+/* --- Publication entries: minimal spacing between papers in same category --- */
 .page__content #publications ~ h3 + ul li {
-  padding: 0.2em 0;
-  margin-bottom: 0.35em;
-  border-bottom: 1px solid #f5f5f5;
+  padding: 0.05em 0;
+  margin-bottom: 0.28em;
+  border-bottom: 1px solid #f0f0f0;
 }
 
 .page__content #publications ~ h3 + ul li:last-child {
   border-bottom: none;
+  margin-bottom: 0;
+}
+
+/* reduce inner paragraph/line spacing inside each paper entry */
+.page__content #publications ~ h3 + ul li p {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
+
+.page__content #publications ~ h3 + ul li p:first-child {
+  margin-top: 0;
+}
+
+.page__content #publications ~ h3 + ul li p:last-child {
   margin-bottom: 0;
 }
 
