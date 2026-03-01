@@ -36,56 +36,56 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ### Multimodal GUI Agent and Embodied Agent
 
 - **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)**. *Preprint 2026*. [[code]](https://github.com/GUI-Libra/GUI-Libra) [[website]](https://gui-libra.github.io/)  
-  **Rui Yang**, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baolin Peng, Huan Zhang, Jianfeng Gao, Tong Zhang
+  <span class="paper-authors">**Rui Yang**, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baolin Peng, Huan Zhang, Jianfeng Gao, Tong Zhang</span>
 
 - **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**. *Preprint 2025* [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)    
-  Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.
+  <span class="paper-authors">Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.</span>
 
 - **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025** <span style="color:red;">**(Oral)**</span>. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
-  **Rui Yang**$^\*$, Hanyang Chen\$^\*$, Junyu Zhang\$^\*$, Mark Zhao$^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang.
+  <span class="paper-authors">**Rui Yang**$^\*$, Hanyang Chen\$^\*$, Junyu Zhang\$^\*$, Mark Zhao$^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang.</span>
 
 - **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. **NeurIPS 2025**. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)    
-  Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.
+  <span class="paper-authors">Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.</span>
 
 ### Multimodal Math Reasoning 
 - **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**. **ICLR 2025**. [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
-  Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.
+  <span class="paper-authors">Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.</span>
 
 ### ML for LLMs
 - **[Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)**. **NeurIPS 2024**. [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)  
-  **Rui Yang**, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang.
+  <span class="paper-authors">**Rui Yang**, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang.</span>
 
 - **[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207)**. **ICML 2024**. [[code]](https://github.com/YangRui2015/RiC)  
-  **Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.
+  <span class="paper-authors">**Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.</span>
 
 - **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**. **ACL 2025 (Findings)**.  
-  Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.  
+  <span class="paper-authors">Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.</span>  
 
 - **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**. **EMNLP 2025 (Main)** <span style="color:red;">**Outstanding Paper Award**</span>.  
-  Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.  
+  <span class="paper-authors">Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.</span>  
 
   
 
 ### Robust Offline RL
 
 - **[Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling](https://openreview.net/forum?id=phAlw3JPms)**. **ICLR 2025**.  
-  Jiawei Xu $^\*$, **Rui Yang** $^\*$, Shuang Qiu, Feng Luo, Meng Fang, Baoxiang Wang, Lei Han.
+  <span class="paper-authors">Jiawei Xu $^\*$, **Rui Yang** $^\*$, Shuang Qiu, Feng Luo, Meng Fang, Baoxiang Wang, Lei Han.</span>
 
 - **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**. **ICLR 2024**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RIQL)  
-  **Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.
+  <span class="paper-authors">**Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.</span>
 
 - **[Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX)**. **NeurIPS 2023**. [[code]](https://github.com/YangRui2015/UWMSG)  
-  Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.
+  <span class="paper-authors">Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.</span>
 
 - **[RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE)**. **NeurIPS 2022**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RORL)  
-  **Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han.
+  <span class="paper-authors">**Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han.</span>
 
 ### Goal-conditioned RL
 - **[What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q)**. **ICML 2023**. [[code]](https://github.com/YangRui2015/GOAT)  
-  **Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang.
+  <span class="paper-authors">**Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang.</span>
 
 - **[Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)**. **ICLR 2022**. [[code]](https://github.com/YangRui2015/AWGCSL)  
-  **Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.
+  <span class="paper-authors">**Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.</span>
 
 
 ---

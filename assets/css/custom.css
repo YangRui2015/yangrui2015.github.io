@@ -58,6 +58,10 @@
 
 .page__content #publications ~ h3 + ul li p:last-child {
   margin-bottom: 0;
+}
+
+/* paper author line: smaller font (via .paper-authors span in about.md) */
+.page__content .paper-authors {
   font-size: 0.82em;
   color: #555;
 }
