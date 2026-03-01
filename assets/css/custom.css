@@ -54,7 +54,6 @@
 
 .page__content #publications ~ h3 + ul li p:first-child {
   margin-top: 0;
-  font-size: 1.05em;
 }
 
 .page__content #publications ~ h3 + ul li p:last-child {
