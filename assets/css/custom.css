@@ -81,3 +81,54 @@ html {
   scroll-behavior: smooth;
 }
 
+/* --- News "Show more" details/summary --- */
+.page__content #news ~ details {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.page__content #news ~ details summary {
+  cursor: pointer;
+  color: #52adc8;
+  font-weight: 500;
+  user-select: none;
+}
+
+.page__content #news ~ details summary:hover {
+  color: #2d8ba8;
+}
+
+.page__content #news ~ details[open] summary {
+  margin-bottom: 0.5em;
+}
+
+/* --- Back to top button --- */
+.back-to-top {
+  display: inline-block;
+  margin-top: 1em;
+  padding: 0.4em 0.8em;
+  font-size: 0.9em;
+  color: #52adc8;
+  text-decoration: none;
+  border: 1px solid #52adc8;
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.back-to-top:hover {
+  background-color: #52adc8;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* --- Education list: clean layout --- */
+.page__content h2#education + ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page__content h2#education + ul li {
+  margin-bottom: 0.5em;
+  padding-left: 0;
+}
+
