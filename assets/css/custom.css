@@ -36,7 +36,7 @@
 
 /* --- Publication entries: minimal spacing between papers in same category --- */
 .page__content #publications ~ h3 + ul li {
-  padding: 0.05em 0;
+  padding: 0.1em 0;
   margin-bottom: 0.28em;
   border-bottom: 1px solid #f0f0f0;
 }
@@ -73,6 +73,10 @@
 }
 
 /* --- Author avatar: rounded for modern look --- */
+.author__bio {
+  white-space: pre-line;
+}
+
 .author__avatar img {
   border-radius: 8px !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
