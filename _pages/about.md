@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My current research interests lie in **Foundation Models for Agents**, **Trustworthy LLMs/VLMs**, and **Deep Reinforcement Learning**. My long-term goal is to develop **agent foundation models with strong perception, reasoning, and planning capabilities**, enabling scalable and reliable autonomous systems.
+I am a PhD candidate in Computer Science at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My current research interests lie in **Foundation Models for Agents**, **Trustworthy LLMs/VLMs**, and **Deep Reinforcement Learning**. My long-term goal is to develop **agent foundation models with strong perception, reasoning, and planning capabilities**, enabling scalable and reliable autonomous systems.
 
 
 Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Noitom Robotics, formerly Tencent AI Lab/Robotics X Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
