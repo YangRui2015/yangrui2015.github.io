@@ -18,6 +18,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 ## News {#news}
 
 
+- **🌟 (2026.4)** Check out our recent **ICML 2026** work [ReCAP](https://arxiv.org/abs/2603.23559) on VLMs for visual CAPTCHA-solving agents, as well as our **ACL 2026** paper [VAF](https://arxiv.org/abs/2601.21961) on how webpage visual attributes influence VLM decision-making. Congrats to all co-authors!
 - **🌟 (2026.2)** We released [GUI-Libra](https://gui-libra.github.io/), a data-efficient post-training receipe for GUI agents that uses 81K open-source data to achieve strong performance on online environments. Check out our [paper](https://arxiv.org/abs/2602.22190) and [code](https://github.com/GUI-Libra/GUI-Libra) for more details! 
 - **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
