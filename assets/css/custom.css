@@ -1,113 +1,239 @@
 /* ==========================================================================
-   Academic Homepage - Custom Aesthetic Enhancements
+   Academic Homepage — Visual Redesign
    ========================================================================== */
 
-/* --- Section spacing & hierarchy --- */
+/* --- Design Tokens --- */
+:root {
+  --color-primary:      #2E86AB;
+  --color-primary-dark: #1a6d8e;
+  --color-accent:       #E8A427;
+  --color-text:         #2d3748;
+  --color-text-muted:   #718096;
+  --color-surface:      #F7F9FC;
+  --color-border:       #E2E8F0;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --shadow-card: 0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-hover: 0 4px 12px rgba(0,0,0,0.10);
+  --transition: all 0.2s ease;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--color-text);
+}
+
+/* ==========================================================================
+   LINKS
+   ========================================================================== */
+
+.page__content a {
+  color: var(--color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(46, 134, 171, 0.3);
+  transition: var(--transition);
+}
+
+.page__content a:hover {
+  color: var(--color-primary-dark);
+  border-bottom-color: var(--color-primary);
+}
+
+/* ==========================================================================
+   SECTION HEADINGS
+   ========================================================================== */
+
 .page__content h2 {
-  margin-top: 2.5em;
-  padding-bottom: 0.6em;
-  border-bottom: 2px solid #e8e8e8;
-  font-weight: 600;
-  letter-spacing: -0.02em;
+  margin-top: 2.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--color-border);
+  font-weight: 700;
+  font-size: 1.3em;
+  letter-spacing: -0.025em;
+  color: var(--color-text);
 }
 
 .page__content h2:first-of-type {
-  margin-top: 1.5em;
+  margin-top: 1.2em;
 }
 
 .page__content h3 {
   margin-top: 1.8em;
-  margin-bottom: 0.6em;
-  color: #4a4a4a;
-  font-weight: 600;
-  font-size: 1.1em;
+  margin-bottom: 0.8em;
+  font-size: 1.0em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-primary);
 }
 
-/* --- News items: clearer visual separation --- */
+.page__content h3::after {
+  content: '';
+  display: block;
+  width: 2.5em;
+  height: 2px;
+  background: var(--color-primary);
+  margin-top: 6px;
+  opacity: 0.35;
+  border-radius: 1px;
+}
+
+/* ==========================================================================
+   BODY TEXT
+   ========================================================================== */
+
+.page__content p {
+  line-height: 1.78;
+  color: var(--color-text);
+}
+
+.page__content > p:first-of-type {
+  font-size: 1.01em;
+  line-height: 1.82;
+  color: #374151;
+}
+
+.page__content hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2.5em 0;
+}
+
+/* ==========================================================================
+   BADGE SYSTEM
+   ========================================================================== */
+
+.badge {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 3px;
+  font-size: 0.71em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: middle;
+  line-height: 1.6;
+  white-space: nowrap;
+  margin-left: 4px;
+  border-bottom: none !important;
+}
+
+/* Award / quality badges */
+.badge-oral    { background: #C0392B; color: #fff; }
+.badge-spot    { background: #E67E22; color: #fff; }
+.badge-award   { background: #8E44AD; color: #fff; }
+.badge-arxiv   { background: #718096; color: #fff; }
+.badge-top-reviewer { background: var(--color-accent); color: #fff; }
+
+/* Venue badges */
+.badge-icml    { background: #1a6d8e; color: #fff; }
+.badge-neurips { background: #4A90D9; color: #fff; }
+.badge-iclr    { background: #2C7BE5; color: #fff; }
+.badge-acl     { background: #2E7D32; color: #fff; }
+.badge-emnlp   { background: #5C6BC0; color: #fff; }
+
+/* ==========================================================================
+   PAPER CARD SYSTEM
+   ========================================================================== */
+
+.page__content #publications ~ h3 + ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.4em;
+}
+
+.page__content #publications ~ h3 + ul li {
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-left: 3px solid transparent;
+  border-radius: var(--radius-md);
+  padding: 13px 16px;
+  margin-bottom: 8px;
+  box-shadow: var(--shadow-card);
+  transition: var(--transition);
+  line-height: 1.58;
+}
+
+.page__content #publications ~ h3 + ul li:hover {
+  box-shadow: var(--shadow-hover);
+  border-left-color: var(--color-primary);
+  transform: translateY(-1px);
+}
+
+/* Left border colors via :has() — no markdown annotation needed */
+.page__content #publications ~ h3 + ul li:has(.badge-oral)  { border-left-color: #C0392B; }
+.page__content #publications ~ h3 + ul li:has(.badge-spot)  { border-left-color: #E67E22; }
+.page__content #publications ~ h3 + ul li:has(.badge-award) { border-left-color: #8E44AD; }
+
+/* Fallback class-based (kept for safety) */
+.paper-oral      { border-left-color: #C0392B !important; }
+.paper-spotlight { border-left-color: #E67E22 !important; }
+.paper-award     { border-left-color: #8E44AD !important; }
+
+/* Author line */
+.paper-authors {
+  display: block;
+  font-size: 0.81em;
+  color: var(--color-text-muted);
+  margin-top: 5px;
+  line-height: 1.5;
+}
+
+.paper-authors a {
+  color: inherit;
+  border-bottom: none;
+}
+
+/* Links inside paper cards */
+.page__content #publications ~ h3 + ul li a {
+  font-weight: 500;
+}
+
+/* ==========================================================================
+   NEWS SECTION
+   ========================================================================== */
+
 .page__content ul li {
-  margin-bottom: 0.9em;
+  margin-bottom: 0.85em;
   line-height: 1.65;
   padding-left: 0.3em;
 }
 
 .page__content ul li::marker {
-  color: #52adc8;
+  color: var(--color-primary);
 }
 
-/* --- Publication entries: minimal spacing between papers in same category --- */
-.page__content #publications ~ h3 + ul li {
-  padding: 0.1em 0;
-  margin-bottom: 0.28em;
-  border-bottom: 1px solid #f0f0f0;
+.news-scroll {
+  max-height: 340px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 4px 8px 4px 0;
+  margin-top: 0.6em;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  font-size: 0.92em;
 }
 
-.page__content #publications ~ h3 + ul li:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
+.news-scroll::-webkit-scrollbar { width: 6px; }
+.news-scroll::-webkit-scrollbar-track { background: #eef0f3; border-radius: 3px; }
+.news-scroll::-webkit-scrollbar-thumb { background: #c8cdd5; border-radius: 3px; }
+.news-scroll::-webkit-scrollbar-thumb:hover { background: var(--color-primary); }
+
+.news-date {
+  font-size: 0.80em;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  font-weight: 500;
+  min-width: 55px;
+  font-variant-numeric: tabular-nums;
 }
 
-/* reduce inner paragraph/line spacing inside each paper entry */
-.page__content #publications ~ h3 + ul li p {
-  margin-top: 0.15em;
-  margin-bottom: 0.15em;
-}
-
-.page__content #publications ~ h3 + ul li p:first-child {
-  margin-top: 0;
-}
-
-.page__content #publications ~ h3 + ul li p:last-child {
-  margin-bottom: 0;
-}
-
-/* paper author line: smaller font (via .paper-authors span in about.md) */
-.page__content .paper-authors {
-  font-size: 0.82em;
-  color: #555;
-}
-
-/* --- Links: cleaner, more academic look --- */
-.page__content a {
-  text-decoration: none;
-  border-bottom: 1px solid rgba(82, 173, 200, 0.4);
-  transition: border-color 0.2s ease, color 0.2s ease;
-}
-
-.page__content a:hover {
-  border-bottom-color: #52adc8;
-  color: #2d8ba8;
-}
-
-/* --- Author avatar: rounded for modern look --- */
-.author__bio {
-  white-space: pre-line;
-}
-
-.author__avatar img {
-  border-radius: 8px !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-}
-
-/* --- Masthead: subtle refinement --- */
-.masthead {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-}
-
-.masthead__menu-item--lg a {
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-.masthead__menu-item a:hover {
-  color: #52adc8;
-}
-
-/* --- Smooth scroll for anchor links --- */
-html {
-  scroll-behavior: smooth;
-}
-
-/* --- News "Show more" details/summary --- */
+/* "Show more" details/summary */
 .page__content #news ~ details {
   margin-top: 0.5em;
   margin-bottom: 1em;
@@ -115,70 +241,203 @@ html {
 
 .page__content #news ~ details summary {
   cursor: pointer;
-  color: #52adc8;
+  color: var(--color-primary);
   font-weight: 500;
   user-select: none;
 }
 
 .page__content #news ~ details summary:hover {
-  color: #2d8ba8;
+  color: var(--color-primary-dark);
 }
 
 .page__content #news ~ details[open] summary {
   margin-bottom: 0.5em;
 }
 
-/* --- News: scrollable container (up/down), smaller font --- */
-.news-scroll {
-  max-height: 320px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding: 0.6em 0.5em 0.6em 0;
-  margin-top: 0.5em;
-  border: 1px solid #eee;
-  border-radius: 6px;
-  background: #fafafa;
-  font-size: 0.92em;
+/* ==========================================================================
+   EXPERIENCE TIMELINE
+   ========================================================================== */
+
+.page__content #experiences + ul {
+  list-style: none;
+  padding-left: 0;
+  position: relative;
+  margin-top: 1em;
 }
 
-.news-scroll::-webkit-scrollbar {
-  width: 8px;
+/* Vertical connector line */
+.page__content #experiences + ul::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 18px;
+  bottom: 18px;
+  width: 2px;
+  background: linear-gradient(
+    to bottom,
+    var(--color-primary),
+    var(--color-border)
+  );
+  border-radius: 1px;
 }
 
-.news-scroll::-webkit-scrollbar-track {
-  background: #f0f0f0;
-  border-radius: 4px;
+.page__content #experiences + ul li {
+  position: relative;
+  padding: 11px 16px 11px 52px;
+  margin-bottom: 10px;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  transition: var(--transition);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  line-height: 1.5;
 }
 
-.news-scroll::-webkit-scrollbar-thumb {
-  background: #c0c0c0;
-  border-radius: 4px;
+.page__content #experiences + ul li:hover {
+  box-shadow: var(--shadow-hover);
+  border-color: rgba(46, 134, 171, 0.3);
 }
 
-.news-scroll::-webkit-scrollbar-thumb:hover {
-  background: #52adc8;
+/* Timeline dot */
+.page__content #experiences + ul li::before {
+  content: '';
+  position: absolute;
+  left: 13px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-primary);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px var(--color-primary);
+  z-index: 1;
 }
 
-/* --- Back to top button --- */
+.page__content #experiences + ul li img {
+  height: 20px !important;
+  width: auto;
+  margin-left: auto;
+  flex-shrink: 0;
+  opacity: 0.82;
+}
+
+/* ==========================================================================
+   SERVICES SECTION
+   ========================================================================== */
+
+.page__content #services + p {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  line-height: 1.78;
+  font-size: 0.93em;
+}
+
+/* ==========================================================================
+   AUTHOR SIDEBAR
+   ========================================================================== */
+
+.author__avatar img {
+  border-radius: 10px !important;
+  border: none !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12) !important;
+  padding: 0 !important;
+}
+
+.author__name {
+  font-weight: 700 !important;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  font-size: 0.85em;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+  white-space: pre-line;
+}
+
+.author__urls a:hover {
+  color: var(--color-primary) !important;
+}
+
+@media (min-width: 925px) {
+  .sidebar {
+    background: var(--color-surface);
+    border-radius: var(--radius-md);
+    padding: 16px 12px;
+    border: 1px solid var(--color-border);
+    position: sticky;
+    top: 80px;
+  }
+}
+
+/* ==========================================================================
+   MASTHEAD — sticky with glass effect
+   ========================================================================== */
+
+.masthead {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.masthead__menu-item--lg a {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--color-text);
+}
+
+.masthead__menu-item a {
+  font-size: 0.88em;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  transition: var(--transition);
+  border-bottom: none !important;
+  padding: 4px 6px;
+  border-radius: var(--radius-sm);
+}
+
+.masthead__menu-item a:hover {
+  color: var(--color-primary);
+  background: rgba(46, 134, 171, 0.06);
+}
+
+/* ==========================================================================
+   MISC
+   ========================================================================== */
+
+/* Back to top button */
 .back-to-top {
   display: inline-block;
-  margin-top: 1em;
-  padding: 0.4em 0.8em;
-  font-size: 0.9em;
-  color: #52adc8;
+  margin-top: 1.5em;
+  padding: 6px 16px;
+  font-size: 0.85em;
+  color: var(--color-primary);
+  border: 1.5px solid var(--color-primary);
+  border-radius: 20px;
+  transition: var(--transition);
+  font-weight: 500;
   text-decoration: none;
-  border: 1px solid #52adc8;
-  border-radius: 4px;
-  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .back-to-top:hover {
-  background-color: #52adc8;
+  background: var(--color-primary);
   color: #fff;
   text-decoration: none;
+  border-bottom: 1.5px solid var(--color-primary) !important;
 }
 
-/* --- Education list: clean layout --- */
+/* Education list */
 .page__content h2#education + ul {
   list-style: none;
   padding-left: 0;
@@ -188,4 +447,3 @@ html {
   margin-bottom: 0.5em;
   padding-left: 0;
 }
-

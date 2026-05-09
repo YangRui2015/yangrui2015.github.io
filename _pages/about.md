@@ -26,8 +26,8 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 - **🌟 (2025.10)** We released [Embodied Reasoning Agent (ERA)](https://arxiv.org/abs/2510.12693), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://embodied-reasoning-agent.github.io/).
 - **🎉 (2025.9)** [GUI-Actor](https://arxiv.org/abs/2506.03143) and [ADG](https://arxiv.org/abs/2505.23871) are accepted to **NeurIPS 2025**! [MergeBench](https://arxiv.org/abs/2505.10833) is accepted to the **Datasets & Benchmarks Track**! Congrats to all co-authors!
 - **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference with <span style="color:DodgerBlue;">**award nomination**</span>!
-- **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)!
-- **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond.
+<!-- - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)! -->
+<!-- - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond (Deep Learning Group). -->
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025** as an <span style="color:DodgerBlue;">**oral**</span> paper! Thanks to my co-authors!
 
 
@@ -36,56 +36,71 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ### Multimodal GUI Agent and Embodied Agent
 
-- **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)**. *Preprint 2026*. [[code]](https://github.com/GUI-Libra/GUI-Libra) [[website]](https://gui-libra.github.io/)  
+- **[GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL](https://arxiv.org/abs/2602.22190)**.  
+  <span class="badge badge-arxiv">Preprint 2026</span> [[code]](https://github.com/GUI-Libra/GUI-Libra) [[website]](https://gui-libra.github.io/)  
   <span class="paper-authors">**Rui Yang**, Qianhui Wu, Zhaoyang Wang, Hanyang Chen, Ke Yang, Hao Cheng, Huaxiu Yao, Baolin Peng, Huan Zhang, Jianfeng Gao, Tong Zhang</span>
 
-- **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**. *Preprint 2025* [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)    
+- **[ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning](https://arxiv.org/abs/2510.12693)**.  
+  <span class="badge badge-arxiv">Preprint 2025</span> [\[code\]](https://github.com/Embodied-Reasoning-Agent/Embodied-Reasoning-Agent) [\[website\]](https://embodied-reasoning-agent.github.io/)  
   <span class="paper-authors">Hanyang Chen\$^\*$,  Mark Zhao\$^\*$,  **Rui Yang**$^\*$,  Qinwei Ma,  Ke Yang, Kangrui Wang,  Hao Bai,  Zhenhailong Wang,  Jiarui Yao,  Rui Pan,  Mengchao Zhang,  Jose Barreiros,  Aykut Onol, ChengXiang Zhai,  Heng Ji,  Manling Li,  Huan Zhang,  Tong Zhang.</span>
 
-- **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**. **ICML 2025** <span style="color:red;">**(Oral)**</span>. [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
+- **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560)**.  
+  <span class="badge badge-icml">ICML 2025</span> <span class="badge badge-oral">Oral</span> [[code]](https://github.com/EmbodiedBench/EmbodiedBench) [[website]](https://embodiedbench.github.io/)  
   <span class="paper-authors">**Rui Yang**$^\*$, Hanyang Chen\$^\*$, Junyu Zhang\$^\*$, Mark Zhao$^\*$, Cheng Qian, Kangrui Wang, Qineng Wang, Teja Venkat Koripella, Marziyeh Movahedi, Manling Li, Heng Ji, Huan Zhang, Tong Zhang.</span>
 
-- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**. **NeurIPS 2025**. [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)    
+- **[GUI-Actor: Attention-based Grounding with Verifiable Action Head for GUI Agents](https://arxiv.org/abs/2506.03143)**.  
+  <span class="badge badge-neurips">NeurIPS 2025</span> [\[code\]](https://github.com/microsoft/GUI-Actor) [\[website\]](https://microsoft.github.io/GUI-Actor)  
   <span class="paper-authors">Qianhui Wu\$^\*\$, Kanzhi Cheng\$^\*\$, **Rui Yang**\$^\*\$, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao.</span>
 
 ### Multimodal Math Reasoning 
-- **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**. **ICLR 2025**. [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
+- **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**.  
+  <span class="badge badge-iclr">ICLR 2025</span> [[code]](https://github.com/DynaMath/DynaMath) [[website]](https://dynamath.github.io/)  
   <span class="paper-authors">Chengke Zou $^\*$, Xingang Guo $^\*$, **Rui Yang** $^\*$, Junyu Zhang, Bin Hu, Huan Zhang.</span>
 
 ### ML for LLMs
-- **[Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)**. **NeurIPS 2024**. [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)  
+- **[Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs](https://arxiv.org/abs/2406.10216)**.  
+  <span class="badge badge-neurips">NeurIPS 2024</span> [[code]](https://github.com/YangRui2015/Generalizable-Reward-Model)  
   <span class="paper-authors">**Rui Yang**, Ruomeng Ding, Yong Lin, Huan Zhang, Tong Zhang.</span>
 
-- **[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207)**. **ICML 2024**. [[code]](https://github.com/YangRui2015/RiC)  
+- **[Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment](https://arxiv.org/abs/2402.10207)**.  
+  <span class="badge badge-icml">ICML 2024</span> [[code]](https://github.com/YangRui2015/RiC)  
   <span class="paper-authors">**Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.</span>
 
-- **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**. **ACL 2025 (Findings)**.  
-  <span class="paper-authors">Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.</span>  
+- **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**.  
+  <span class="badge badge-acl">ACL 2025 Findings</span>  
+  <span class="paper-authors">Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.</span>
 
-- **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**. **EMNLP 2025 (Main)** <span style="color:red;">**Outstanding Paper Award**</span>.  
-  <span class="paper-authors">Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.</span>  
+- **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**.  
+  <span class="badge badge-emnlp">EMNLP 2025</span> <span class="badge badge-award">Outstanding Paper</span>  
+  <span class="paper-authors">Jingyan Shen$^\*$, Jiarui Yao$^\*$, **Rui Yang$^\*$**, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.</span>
 
   
 
 ### Robust Offline RL
 
-- **[Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling](https://openreview.net/forum?id=phAlw3JPms)**. **ICLR 2025**.  
+- **[Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling](https://openreview.net/forum?id=phAlw3JPms)**.  
+  <span class="badge badge-iclr">ICLR 2025</span>  
   <span class="paper-authors">Jiawei Xu $^\*$, **Rui Yang** $^\*$, Shuang Qiu, Feng Luo, Meng Fang, Baoxiang Wang, Lei Han.</span>
 
-- **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**. **ICLR 2024**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RIQL)  
+- **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**.  
+  <span class="badge badge-iclr">ICLR 2024</span> <span class="badge badge-spot">Spotlight</span> [[code]](https://github.com/YangRui2015/RIQL)  
   <span class="paper-authors">**Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.</span>
 
-- **[Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX)**. **NeurIPS 2023**. [[code]](https://github.com/YangRui2015/UWMSG)  
+- **[Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX)**.  
+  <span class="badge badge-neurips">NeurIPS 2023</span> [[code]](https://github.com/YangRui2015/UWMSG)  
   <span class="paper-authors">Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.</span>
 
-- **[RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE)**. **NeurIPS 2022**. <span style="color:red;">**(Spotlight)**</span> [[code]](https://github.com/YangRui2015/RORL)  
+- **[RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE)**.  
+  <span class="badge badge-neurips">NeurIPS 2022</span> <span class="badge badge-spot">Spotlight</span> [[code]](https://github.com/YangRui2015/RORL)  
   <span class="paper-authors">**Rui Yang** $^\*$, Chenjia Bai $^\*$, Xiaoteng Ma, Zhaoran Wang, Chongjie Zhang, Lei Han.</span>
 
 ### Goal-conditioned RL
-- **[What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q)**. **ICML 2023**. [[code]](https://github.com/YangRui2015/GOAT)  
+- **[What Is Essential for Unseen Goal Generalization of Offline Goal-conditioned RL?](https://openreview.net/forum?id=UrQySwOk4q)**.  
+  <span class="badge badge-icml">ICML 2023</span> [[code]](https://github.com/YangRui2015/GOAT)  
   <span class="paper-authors">**Rui Yang**, Yong Lin, Xiaoteng Ma, Hao Hu, Chongjie Zhang, Tong Zhang.</span>
 
-- **[Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)**. **ICLR 2022**. [[code]](https://github.com/YangRui2015/AWGCSL)  
+- **[Rethinking Goal-conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/forum?id=KJztlfGPdwW)**.  
+  <span class="badge badge-iclr">ICLR 2022</span> [[code]](https://github.com/YangRui2015/AWGCSL)  
   <span class="paper-authors">**Rui Yang**, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, Yali Du, Xiu Li, Lei Han, Chongjie Zhang.</span>
 
 
@@ -95,7 +110,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ## Experiences {#experiences}
 
-- <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Microsoft Research, Redmond, 2025. 
+- <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Microsoft Research, Redmond (Deep Learning Group), 2025.
 
 - <img src="/images/tencent.svg" alt="Tencent" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Tencent AI Lab and Robotics X Lab, 2020-2022 (Multiple internship terms).
 
@@ -106,7 +121,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 ## Services {#services}
 
-Conference Reviewer: ICML, ICLR, NeurIPS (<span style="color:red;">Top Reviewer</span> in NeurIPS 2023), ACL/ARR, ICRA, AAMAS.
+Conference Reviewer: ICML, ICLR, NeurIPS (<span class="badge badge-top-reviewer">Top Reviewer 2023</span>), ACL/ARR, ICRA, AAMAS.
 
 Journal Reviewer: IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Neural Networks and
 Learning Systems (TNNLS), IEEE Transactions on Artificial Intelligence (TAI), Machine Learning, Journal of Artificial Intelligence Research.
