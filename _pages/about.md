@@ -11,23 +11,20 @@ redirect_from:
 I am a PhD candidate in Computer Science at UIUC, advised by Prof. [Tong Zhang](http://tongzhang-ml.org) and Prof. [Huan Zhang](https://www.huan-zhang.com). Previously, I earned my bachelor's and master's degrees from the Department of Automation at Tsinghua University and CSE, HKUST. My current research interests lie in **Foundation Models for Agents**, **Trustworthy LLMs/VLMs**, and **Deep Reinforcement Learning**. My long-term goal is to develop **agent foundation models with strong perception, reasoning, and planning capabilities**, enabling scalable and reliable autonomous systems.
 
 
-Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Noitom Robotics, formerly Tencent AI Lab/Robotics X Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool). 
+<!-- Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html) (Washington University in St. Louis), Dr. [Lei Han](http://www.leihan.org) (Noitom Robotics, formerly Tencent AI Lab/Robotics X Lab), and Prof. [Meng Fang](https://mengfn.github.io) (University of Liverpool).  -->
 
 
 
 ## News {#news}
 
-
+- **🌟 (2026.6)** Check out our recent work: [OpenWebRL](https://arxiv.org/abs/2606.02031) for visual web agents and [Orchard](https://arxiv.org/abs/2605.15040) for agentic infrastructure!
 - **🌟 (2026.4)** Check out our recent **ICML 2026** work [ReCAP](https://arxiv.org/abs/2603.23559) on VLMs for visual CAPTCHA-solving agents, as well as our **ACL 2026** paper [VAF](https://arxiv.org/abs/2601.21961) on how webpage visual attributes influence VLM decision-making. Congrats to all co-authors!
 - **🌟 (2026.2)** We released [GUI-Libra](https://gui-libra.github.io/), a data-efficient post-training receipe for GUI agents that uses 81K open-source data to achieve strong performance on online environments. Check out our [paper](https://arxiv.org/abs/2602.22190) and [code](https://github.com/GUI-Libra/GUI-Libra) for more details! 
 - **🎉 (2026.1)** [BEAT](https://arxiv.org/abs/2510.27623) and [DROCO](https://arxiv.org/abs/2512.02486) are accepted to **ICLR 2026**. Congrats to all co-authors!
 - **🎉 (2025.11)** [MiCRo](https://arxiv.org/abs/2505.24846) won the <span style="color:DodgerBlue;">**EMNLP 2025 Outstanding Paper Award**</span>. Huge congrats to the team!
-- **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)!
+<!-- - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)! -->
 - **🌟 (2025.10)** We released [Embodied Reasoning Agent (ERA)](https://arxiv.org/abs/2510.12693), a training recipe for VLM-based embodied agents with enhanced reasoning and grounding capability. Explore more on our [project page](https://embodied-reasoning-agent.github.io/).
 - **🎉 (2025.9)** [GUI-Actor](https://arxiv.org/abs/2506.03143) and [ADG](https://arxiv.org/abs/2505.23871) are accepted to **NeurIPS 2025**! [MergeBench](https://arxiv.org/abs/2505.10833) is accepted to the **Datasets & Benchmarks Track**! Congrats to all co-authors!
-- **🎉 (2025.8)** [MiCRo](https://arxiv.org/abs/2505.24846) is accepted to **EMNLP 2025** main conference with <span style="color:DodgerBlue;">**award nomination**</span>!
-<!-- - **🌟 (2025.6)** We’ve released [GUI-Actor](https://arxiv.org/abs/2506.03143), a novel GUI grounding model that combines an attention-based action head with a grounding verifier. Explore more on our [project page](https://microsoft.github.io/GUI-Actor/)! -->
-<!-- - **💻 (2025.5)** Starting my internship at Microsoft Research, Redmond (Deep Learning Group). -->
 - **🎉 (2025.5)** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) is accepted to **ICML 2025** as an <span style="color:DodgerBlue;">**oral**</span> paper! Thanks to my co-authors!
 
 
@@ -66,9 +63,6 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
   <span class="badge badge-icml">ICML 2024</span> [[code]](https://github.com/YangRui2015/RiC)  
   <span class="paper-authors">**Rui Yang** $^\*$, Xiaoman Pan $^\*$, Feng Luo $^\*$, Shuang Qiu $^\*$, Han Zhong, Dong Yu, Jianshu Chen.</span>
 
-- **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://arxiv.org/abs/2502.13131)**.  
-  <span class="badge badge-acl">ACL 2025 Findings</span>  
-  <span class="paper-authors">Feng Luo$^\*$, **Rui Yang$^\*$**, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.</span>
 
 - **[MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning](https://arxiv.org/abs/2505.24846)**.  
   <span class="badge badge-emnlp">EMNLP 2025</span> <span class="badge badge-award">Outstanding Paper</span>  
@@ -86,9 +80,6 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
   <span class="badge badge-iclr">ICLR 2024</span> <span class="badge badge-spot">Spotlight</span> [[code]](https://github.com/YangRui2015/RIQL)  
   <span class="paper-authors">**Rui Yang** $^\*$, Han Zhong $^\*$, Jiawei Xu $^\*$, Amy Zhang, Chongjie Zhang, Lei Han, Tong Zhang.</span>
 
-- **[Corruption-Robust Offline Reinforcement Learning with General Function Approximation](https://openreview.net/forum?id=K9M7XNS9BX)**.  
-  <span class="badge badge-neurips">NeurIPS 2023</span> [[code]](https://github.com/YangRui2015/UWMSG)  
-  <span class="paper-authors">Chenlu Ye $^\*$, **Rui Yang** $^\*$, Quanquan Gu, Tong Zhang.</span>
 
 - **[RORL: Robust Offline Reinforcement Learning via Conservative Smoothing](https://openreview.net/forum?id=_QzJJGH_KE)**.  
   <span class="badge badge-neurips">NeurIPS 2022</span> <span class="badge badge-spot">Spotlight</span> [[code]](https://github.com/YangRui2015/RORL)  
@@ -109,6 +100,7 @@ Prior to my PhD, I was fortunate to work closely with Prof. [Chongjie Zhang](htt
 
 
 ## Experiences {#experiences}
+- <img src="/images/apple.svg" alt="Apple" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Apple Foundation Model, 2026.
 
 - <img src="/images/microsoft.svg" alt="Microsoft" style="height: 22px; vertical-align: middle; margin-right: 8px;"> **Research Intern** at Microsoft Research, Redmond (Deep Learning Group), 2025.
 
