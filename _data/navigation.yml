@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Experience"
+    url: /#experiences
+
+  - title: "Service"
+    url: /#services
+
+  - title: "Hobbies"
+    url: /#others

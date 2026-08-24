@@ -1,0 +1,28 @@
+<script src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<script>
+  (function () {
+    // The theme binds $("a").smoothScroll({offset:-20}) on ready, which lands anchors
+    // under the sticky masthead. Drop it so the CSS scroll-padding-top offset applies.
+    if (window.jQuery) {
+      jQuery(function () {
+        jQuery("a").off("click.smoothscroll");
+      });
+    }
+
+    var toggle = document.querySelector(".greedy-nav button");
+    var menu = document.querySelector(".greedy-nav .hidden-links");
+    if (toggle && menu) {
+      var syncExpandedState = function () {
+        toggle.setAttribute("aria-expanded", String(!menu.classList.contains("hidden")));
+      };
+      syncExpandedState();
+      toggle.addEventListener("click", function () {
+        window.setTimeout(syncExpandedState, 0);
+      });
+    }
+  }());
+</script>
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
