@@ -274,12 +274,12 @@ a:hover { color: var(--v2-brand-dark); }
 }
 
 /* News reads as a compact chronological feed. */
-.page__content #news + ul {
+.page__content :is(#news + ul, .older-news > ul) {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-.page__content #news + ul > li {
+.page__content :is(#news + ul, .older-news > ul) > li {
   position: relative;
   margin: 0;
   padding: .5rem 0 .5rem 8.2rem;
@@ -287,8 +287,8 @@ a:hover { color: var(--v2-brand-dark); }
   font-size: .9rem;
   line-height: 1.48;
 }
-.page__content #news + ul > li:first-child { border-top: 1px solid #edf1f2; }
-.page__content #news + ul > li > strong:first-child {
+.page__content :is(#news + ul, .older-news > ul) > li:first-child { border-top: 1px solid #edf1f2; }
+.page__content :is(#news + ul, .older-news > ul) > li > strong:first-child {
   position: absolute;
   top: .5rem;
   left: 0;
@@ -297,7 +297,8 @@ a:hover { color: var(--v2-brand-dark); }
   letter-spacing: .015em;
   white-space: nowrap;
 }
-.page__content #news + ul + hr { display: none; }
+.page__content #news + ul + hr,
+.page__content .older-news + hr { display: none; }
 .page__content #publications { margin-top: 2.55rem; }
 
 .page__content #publications ~ h3 {
@@ -527,8 +528,8 @@ a:hover { color: var(--v2-brand-dark); }
   .page__content h2 { margin-top: 2rem; font-size: 1.22rem; }
   .page__content h3 { margin-top: 2.15rem; font-size: .76rem; }
 
-  .page__content #news + ul > li { padding: .55rem 0; font-size: .85rem; }
-  .page__content #news + ul > li > strong:first-child {
+  .page__content :is(#news + ul, .older-news > ul) > li { padding: .55rem 0; font-size: .85rem; }
+  .page__content :is(#news + ul, .older-news > ul) > li > strong:first-child {
     position: static;
     display: block;
     margin-bottom: .14rem;
@@ -606,7 +607,7 @@ a:hover { color: var(--v2-brand-dark); }
 .page__content .research-overview h3 { color: #304f6b; }
 .research-overview p { color: #566b7a; }
 .research-overview .research-links { color: #71889a; }
-.page__content #news + ul > li > strong:first-child { color: #586f80; }
+.page__content :is(#news + ul, .older-news > ul) > li > strong:first-child { color: #586f80; }
 .page__content #publications ~ h3 {
   border-left-color: #6f94b6;
   color: #2d4e6a;
