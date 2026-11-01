@@ -43,6 +43,7 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
 
 <!-- - **🌟 (2025.11)** Check out our new paper about visual backdoor attacks on VLM-based embodied agents [BEAT](https://arxiv.org/abs/2510.27623)! -->
 
+- **🌟 2026.10** We introduced [Game2Player](https://game2player.github.io/), a pipeline that co-develops game environments and players to collect gameplay data at scale for training visual agents.
 - **🎉 2026.09** [OpenWebRL](https://openwebrl.github.io/) and [GUI-Libra](https://gui-libra.github.io/) were accepted to **NeurIPS 2026**.
 - **🌟 2026.06** We released [Orchard](https://arxiv.org/abs/2605.15040), an open-source framework for training agents across diverse domains.
 - **🎉 2026.04** [ReCAP](https://arxiv.org/abs/2603.23559) was accepted to **ICML 2026**.
