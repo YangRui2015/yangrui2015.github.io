@@ -84,6 +84,10 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
   <span class="badge badge-emnlp">EMNLP 2025</span> <span class="badge badge-award">Outstanding Paper Award</span>  
   <span class="paper-authors">Jingyan Shen<sup>*</sup>, Jiarui Yao<sup>*</sup>, **Rui Yang**<sup>*</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao.</span>
 
+- **[Rethinking Diverse Human Preference Learning through Principal Component Analysis](https://aclanthology.org/2025.findings-acl.1019/)**.  
+  <span class="badge badge-acl">ACL 2025 Findings</span> [[Code]](https://github.com/amandaluo/DRMs)  
+  <span class="paper-authors">Feng Luo<sup>*</sup>, **Rui Yang**<sup>*</sup>, Hao Sun, Chunyuan Deng, Jiarui Yao, Jingyan Shen, Huan Zhang, Hanjie Chen.</span>
+
 - **[DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models](https://arxiv.org/abs/2411.00836)**.  
   <span class="badge badge-iclr">ICLR 2025</span> [[Code]](https://github.com/DynaMath/DynaMath) [[Project]](https://dynamath.github.io/)  
   <span class="paper-authors">Chengke Zou<sup>*</sup>, Xingang Guo<sup>*</sup>, **Rui Yang**<sup>*</sup>, Junyu Zhang, Bin Hu, Huan Zhang.</span>
@@ -97,6 +101,10 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
   <span class="paper-authors">**Rui Yang**<sup>*</sup>, Xiaoman Pan<sup>*</sup>, Feng Luo<sup>*</sup>, Shuang Qiu<sup>*</sup>, Han Zhong, Dong Yu, Jianshu Chen.</span>
 
 ### Robust Offline RL and Goal-Conditioned RL
+
+- **[Tackling Data Corruption in Offline Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2407.04285)**.  
+  <span class="badge badge-iclr">ICLR 2025</span> [[Code]](https://github.com/jiawei415/RobustDecisionTransformer)  
+  <span class="paper-authors">Jiawei Xu<sup>*</sup>, **Rui Yang**<sup>*</sup>, Shuang Qiu, Feng Luo, Meng Fang, Baoxiang Wang, Lei Han.</span>
 
 - **[Towards Robust Offline Reinforcement Learning under Diverse Data Corruption](https://openreview.net/forum?id=5hAMmCU0bK)**.  
   <span class="badge badge-iclr">ICLR 2024</span> <span class="badge badge-spot">Spotlight</span> [[Code]](https://github.com/YangRui2015/RIQL)  
