@@ -17,7 +17,7 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
   <article>
     <h3>Multimodal agents</h3>
     <p>Scalable post-training and evaluation for multimodal agents on long-horizon tasks.</p>
-    <p class="research-links"><a href="https://openwebrl.github.io/">OpenWebRL</a> · <a href="https://gui-libra.github.io/">GUI-Libra</a> · <a href="https://microsoft.github.io/GUI-Actor">GUI-Actor</a> · <a href="https://arxiv.org/abs/2510.12693">ERA</a> · <a href="https://embodiedbench.github.io/">EmbodiedBench</a></p>
+    <p class="research-links"><a href="https://openwebrl.github.io/">OpenWebRL</a> · <a href="https://gui-libra.github.io/">GUI-Libra</a> · <a href="https://microsoft.github.io/GUI-Actor">GUI-Actor</a> · <a href="https://game2player.github.io/">Game2Player</a> · <a href="https://embodiedbench.github.io/">EmbodiedBench</a></p>
   </article>
   <article>
     <h3>Trustworthy alignment &amp; evaluation</h3>
@@ -64,6 +64,10 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
 <p class="section-note"><sup>*</sup> Equal contribution. Selected papers I led or co-led; see <a href="https://scholar.google.com/citations?user=QHSUy3MAAAAJ">Google Scholar</a> for the full list.</p>
 
 ### Foundation Models for Interactive Agents
+
+- **[Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development](https://arxiv.org/abs/2611.24154)**.  
+  <span class="badge badge-arxiv">Preprint 2026</span> [[Code]](https://github.com/game2player/Game2Player) [[Project]](https://game2player.github.io/)  
+  <span class="paper-authors">Xirui Jiang<sup>*</sup>, Yuxi Chen<sup>*</sup>, **Rui Yang**<sup>*</sup>, Feng Luo<sup>*</sup>, Pengcheng Wang, Bingxuan Li, Zihao Zhao, Yushan Li, Han Wang, Manling Li, Yang Zhang, Shiyu Chang, Tong Zhang, Huan Zhang.</span>
 
 - **[OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)**.  
   <span class="badge badge-neurips">NeurIPS 2026</span> [[Code]](https://github.com/OpenWebRL/OpenWebRL) [[Project]](https://openwebrl.github.io/) [[Models & Data]](https://huggingface.co/OpenWebRL)  
