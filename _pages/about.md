@@ -51,13 +51,6 @@ I am a Ph.D. candidate in Computer Science at UIUC <img src="/images/uiuc-mark.p
 - **🎉 2025.11** [MiCRo](https://arxiv.org/abs/2505.24846) received an **EMNLP 2025 Outstanding Paper Award**.
 - **🎉 2025.05** [EmbodiedBench](https://github.com/EmbodiedBench/EmbodiedBench) was accepted to **ICML 2025** as an **oral** paper.
 
-<details class="older-news" markdown="1">
-<summary>Older news</summary>
-
-- **🎉 2025.09** [GUI-Actor](https://arxiv.org/abs/2506.03143) and [ADG](https://arxiv.org/abs/2505.23871) were accepted to **NeurIPS 2025**, and [MergeBench](https://arxiv.org/abs/2505.10833) to the **Datasets & Benchmarks Track**.
-
-</details>
-
 ---
 ## Selected Publications {#publications}
 

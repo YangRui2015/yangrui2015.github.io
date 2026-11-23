@@ -620,3 +620,28 @@ a:hover { color: var(--v2-brand-dark); }
   background: #7198bb;
   box-shadow: 0 0 0 1px #aec4d7;
 }
+
+/* Compact publication tabs. */
+.publication-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin: .8rem 0 0;
+}
+.publication-tab {
+  padding: .4rem .75rem;
+  border: 1px solid var(--v2-line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--v2-copy);
+  font: inherit;
+  cursor: pointer;
+}
+.publication-tab strong { display: block; font-size: .75rem; line-height: 1.4; }
+.publication-tab:hover { border-color: #6f94b6; background: #f7fafc; }
+.publication-tab[aria-selected="true"] {
+  border-color: #6f94b6;
+  background: #edf3f9;
+}
+.publication-tab:focus-visible, [role="tabpanel"]:focus-visible { outline: 2px solid var(--v2-brand); outline-offset: 3px; }
+.page__content [hidden] { display: none !important; }
